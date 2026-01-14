@@ -41,3 +41,40 @@ nav span:hover{
 #next:hover {
     background-color: #6f1717;
 }
+.langauge_list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    padding: 40px 20px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.langauge_list span {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #333;
+    background-color: #fff;
+    padding: 8px 16px;
+    border-radius: 6px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    width: 100%;
+    text-align: center;
+}
+.langauge_list span:hover{
+    color: #8b1e1e;
+}
+.langauge_list {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.container_langagues{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container_langagues h4{
+    color: #333;
+    text-decoration: solid;
+    font-style: italic;
+}
