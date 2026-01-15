@@ -14,5 +14,21 @@
     "imgAlt": "Current (red) and historical (green) geographic extent of Nahuatl",
     "population": "1.5 million",
     "description": "There are numerous dialects of Nahuatl, some of which are mutually unintelligible. Most Nahuatl speakers also speak Spanish, except for some of the elderly.\n\nClassical Nahuatl was the language of the Aztec empire and was used as a lingua franca in much of Mesoamerica from the 7th century AD until the Spanish conquest in the 16th century. "
+  },
+  {
+    "id": 3,
+    "name": "Totonac",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Totonac_map.svg/500px-Totonac_map.svg.png",
+    "imgAlt": "Current locations where Totonac is being spoken",
+    "population": "260,000",
+    "description": "The Totonac people are an indigenous group native to Totonacapan along the Gulf of Mexico. "
+  },
+  {
+    "id": 4,
+    "name": "Chinantec",
+    "image": "https://catalogo.inpi.gob.mx/wp-content/uploads/2024/08/507-chinanteco-1500x1159-1-900x695.jpg",
+    "imgAlt": "Current location of people speaking Chinantec",
+    "population": "80,000",
+    "description": " As there is only some mutual intelligibity between the different Chinanteco languages, they are considered by most linguists as separate languages rather than dialects."
   }
 ]

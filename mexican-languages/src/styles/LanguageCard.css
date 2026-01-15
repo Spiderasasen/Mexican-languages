@@ -1,0 +1,23 @@
+.language-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+.language-card h3 {
+    text-decoration: underline;
+}
+#pop{
+    text-decoration: underline;
+    font-style: italic;
+}
+.language-card img {
+    width: 100%;
+    border-radius: 6px;
+    margin: 1rem 0;
+}
