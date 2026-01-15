@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Purépecha",
+    "region": "Michoacán",
+    "status": "Living",
+    "description": "Spoken by the Purépecha people, with unique linguistic roots."
+  },
+  {
+    "id": 2,
+    "name": "Nahuatl",
+    "region": "Central Mexico",
+    "status": "Living",
+    "description": "One of the most widely spoken Indigenous languages in Mexico."
+  }
+]
