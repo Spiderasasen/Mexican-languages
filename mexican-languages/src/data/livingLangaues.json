@@ -2,15 +2,17 @@
   {
     "id": 1,
     "name": "Purépecha",
-    "region": "Michoacán",
-    "status": "Living",
-    "description": "Spoken by the Purépecha people, with unique linguistic roots."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Purepecha_map.svg/500px-Purepecha_map.svg.png",
+    "imgAlt": "Distribution of Purépecha in Mexico. Green indicates historical language homeland and red is modern-day speakers.",
+    "population": "175,000" ,
+    "description": "Purépecha was the principal language of the Tarascan state, which was founded in the early 14th century, occupied more or less same area as Michoacán, and fell to the Spanish in 1530. Purépecha is also known as Tarascan as a result."
   },
   {
     "id": 2,
     "name": "Nahuatl",
-    "region": "Central Mexico",
-    "status": "Living",
-    "description": "One of the most widely spoken Indigenous languages in Mexico."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nahuatl_precontact_and_modern.svg/500px-Nahuatl_precontact_and_modern.svg.png",
+    "imgAlt": "Current (red) and historical (green) geographic extent of Nahuatl",
+    "population": "1.5 million",
+    "description": "There are numerous dialects of Nahuatl, some of which are mutually unintelligible. Most Nahuatl speakers also speak Spanish, except for some of the elderly.\n\nClassical Nahuatl was the language of the Aztec empire and was used as a lingua franca in much of Mesoamerica from the 7th century AD until the Spanish conquest in the 16th century. "
   }
 ]
