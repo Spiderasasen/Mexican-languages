@@ -78,5 +78,157 @@
     "imgAlt": "Regions where the Otomí language used to be spoken",
     "population": "300,000",
     "description": "Otomi consists of several closely related languages, many of which are not mutually intelligible."
+  },
+  {
+    "id": 11,
+    "name": "Ch'ol",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
+    "imgAlt": "In light blue, the region where the Ch'ol langague is being spoken",
+    "population": "250,000",
+    "description": "The Ch'ol (Chol) language is a member of the western branch of the Mayan language family used by the Ch'ol people in the states of Chiapas, Tabasco, and Campeche in Mexico"
+  },
+  {
+    "id": 12,
+    "name": "Mazatec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Otomanguean_Languages.png",
+    "imgAlt": "The region where Mazatec is being spoken today",
+    "population": "240,000",
+    "description": "The group is often described as a single language called Mazatec, but because several varieties are not mutually intelligible, they are better described as a group of languages."
+  },
+  {
+    "id": 13,
+    "name": "Huastec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Huasteca.png/500px-Huasteca.png",
+    "imgAlt": "The region where the Huastec language is being spoken today",
+    "population": "170,000",
+    "description": "spoken by the Téenek people living in rural areas of San Luis Potosí and northern Veracruz."
+  },
+  {
+    "id": 14,
+    "name": "Mazahua",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mazahua_language.png/500px-Mazahua_language.png",
+    "imgAlt": "The region where Mazahua is still being spoken today",
+    "population": "150,000",
+    "description": " spoken in the central states of Mexico by the ethnic group that is widely known as the Mazahua but calls itself the Hñatho"
+  },
+  {
+    "id": 15,
+    "name": "Tlapanec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
+    "imgAlt": "The region where Mazahua is still being spoken today",
+    "population": "150,000",
+    "description": "Like other Oto-Manguean languages, it is tonal and has complex inflectional morphology."
+  },
+  {
+    "id": 16,
+    "name": "Mixe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sierra_Mixe.svg/500px-Sierra_Mixe.svg.png",
+    "imgAlt": "the regions where Mixe was spoken",
+    "population": "140,000",
+    "description": " languages of the Mixean branch of the Mixe–Zoquean language family indigenous to southern Mexico."
+  },
+  {
+    "id": 17,
+    "name": "Tarahumara",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarahumara_precontact_and_modern.svg/500px-Tarahumara_precontact_and_modern.svg.png",
+    "imgAlt": "The region where Tarahumara is being spoken today",
+    "population": "92,000",
+    "description": "Rarámuri is spoken by 70,000 or more Indigenous Mexicans living in the state of Chihuahua. There is no consensus among specialists on the number of dialects: competing proposals include two (Western and Eastern);[4] four (Western, Northern, Southern, Eastern);[5] and five, according to field surveys conducted in the 1990s by linguists working for the Mexican government"
+  },
+  {
+    "id": 18,
+    "name": "Zoque",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mixezoquemap.png/500px-Mixezoquemap.png",
+    "imgAlt": "The region where Zoque was spoken",
+    "population": "110,000",
+    "description": "a primary branch of the Mixe–Zoquean language family indigenous to southern Mexico by the Zoque people."
+  },
+  {
+    "id": 19,
+    "name": "Tojolab'al",
+    "image": "https://www.familysearch.org/en/wiki/img_auth.php/7/72/Meseta_Comiteca_Tojolabal_Region%2C_Chiapas_State%2C_Mexico_Map.png",
+    "imgAlt": "The region where Tojolab'al is being spoken in today",
+    "population": "67,000",
+    "description": "a Mayan language spoken in Chiapas, Mexico by the Tojolabal people. Tojol-ab'al is spoken, principally in the departments of the Chiapanecan Colonia of Las Margaritas, by about 70,000 people.[1] It is related to the Chuj language."
+  },
+  {
+    "id": 20,
+    "name": "Chontal de Tabasco",
+    "image": "https://mexico.sil.org/sites/mexico/files/10cmi-chontal-mapa.gif",
+    "imgAlt": "Region where Chontal de Tabasco was spoken",
+    "population": "60,000",
+    "description": "The Chontal spoken in the state of Tabasco is a Mayan language. "
+  },
+  {
+    "id": 21,
+    "name": "Huichol",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Huichol.png/500px-Huichol.png",
+    "imgAlt": "Region where Huichol is being spoken",
+    "population": "60,000",
+    "description": "It is spoken by the ethnic group widely known as the Huichol (self-designation Wixaritari), whose mountainous territory extends over portions of the Mexican states of Jalisco, San Luis Potosí, Nayarit, Zacatecas, and Durango, mostly in Jalisco."
+  },
+  {
+    "id": 22,
+    "name": "Amuzgo",
+    "image": "https://mexico.sil.org/sites/mexico/files/01b-amuzga-mapa1_new.gif",
+    "imgAlt": "Region where Amuzgo is being spoken",
+    "population": "60,000",
+    "description": "Like other Oto-Manguean languages, Amuzgo is a tonal language. From syntactical point of view Amuzgo can be considered as an active language."
+  },
+  {
+    "id": 23,
+    "name": "Chatino",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chatino-map-wikipedia.svg/500px-Chatino-map-wikipedia.svg.png",
+    "imgAlt": "Region where Chatino was spoken",
+    "population": "52,000",
+    "description": "These languages are a branch of the Zapotecan family within the Oto-Manguean language family."
+  },
+  {
+    "id": 24,
+    "name": "Tepehuano del sur",
+    "image": "https://images.squarespace-cdn.com/content/v1/64cc9696adbf064fb79201c6/5c720ffb-c13e-4378-8716-30f0295ce035/Durango-8.png",
+    "imgAlt": "Region wher Tepehuano del sur is spoken",
+    "population": "45,000",
+    "description": "Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers."
+  },
+  {
+    "id": 25,
+    "name": "Mayo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mayoterritory.jpg/330px-Mayoterritory.jpg",
+    "imgAlt": "The region where Mayo is spoken",
+    "population": "39,000",
+    "description": "known as Yorem Noki to the Mayo (Yoreme) people, is an Uto-Aztecan language. It is spoken by about 40,000 people, who live in the southern portion of the Mexican state of Sonora and in the north of the neighboring state of Sinaloa."
+  },
+  {
+    "id": 26,
+    "name": "Popoluca",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
+    "imgAlt": "The region where Popoluca is spoeken",
+    "population": "17,000",
+    "description": "Popoloca is an indigenous Mexican cluster of languages of the Popolocan branch of the Oto-Manguean language family, closely related to Mazatec."
+  },
+  {
+    "id": 27,
+    "name": "Cora",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cora_language.png",
+    "imgAlt": "A map of a cluster of other languages, with Cora also being included in the middle of the cluster",
+    "population": "33,000",
+    "description": "It is spoken by the ethnic group that is widely known as the Cora, but who refer to themselves as Naáyarite. The Cora inhabit the northern sierra of the Mexican state Nayarit which is named after its indigenous inhabitants."
+  },
+  {
+    "id": 28,
+    "name": "Trique",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Triqui_map.svg/500px-Triqui_map.svg.png",
+    "imgAlt": "A region where Trique is spoken in today",
+    "population": "30,000",
+    "description": "a family of Oto-Manguean spoken by 30,000 Trique people of the Mexican states of Oaxaca and the state of Baja California"
+  },
+  {
+    "id": 29,
+    "name": "Yaqui",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Yaqui_location.svg/960px-Yaqui_location.svg.png",
+    "imgAlt": "The region where Yaqui is being spoken today",
+    "population": "16,000",
+    "description": "primary homelands are in Río Yaqui valley in the northwestern Mexican state of Sonora. Today, there are eight Yaqui Pueblos in Sonora."
   }
 ]

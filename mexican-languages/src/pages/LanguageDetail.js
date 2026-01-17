@@ -12,7 +12,7 @@ function LanguageDetail(){
         <div className="language-card">
             <h2>{language.name}</h2>
             <img src={language.image} alt={language.imgAlt}/>
-            <p><strong>Native Speakers:</strong> {language.population}</p>
+            <p><strong id="pop">Native Speakers:</strong> {language.population}</p>
             <p>{language.description}</p>
         </div>
     )
