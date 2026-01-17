@@ -30,5 +30,53 @@
     "imgAlt": "Current location of people speaking Chinantec",
     "population": "80,000",
     "description": " As there is only some mutual intelligibity between the different Chinanteco languages, they are considered by most linguists as separate languages rather than dialects."
+  },
+  {
+    "id": 5,
+    "name": "Yucatec Maya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yucatec_map.svg/500px-Yucatec_map.svg.png",
+    "imgAlt": "Region where the language used to be spoken",
+    "population": "775,000",
+    "description": " a Mayan language spoken in the Yucatán Peninsula, including part of northern Belize. There is also a significant diasporic community of Yucatec Maya speakers in San Francisco, though most Maya Americans are speakers of other Mayan languages from Guatemala and Chiapas."
+  },
+  {
+    "id": 6,
+    "name": "Tzeltal Maya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
+    "imgAlt": "In green, the location where Tzeltal Mayan was spoken",
+    "population": "589,144",
+    "description": "The area in which Tzeltal is spoken can be divided in half by an imaginary north–south line; to the west, near Oxchuc, is the ancestral home of the Tzeltal people, predating Spanish colonials, while the eastern portion was settled primarily in the second half of the twentieth century."
+  },
+  {
+    "id": 7,
+    "name": "Tzotzil Maya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
+    "imgAlt": "In Pink, the location where Tzotzil Maya was spoken",
+    "population": "550,000",
+    "description": "Some speakers may be somewhat bilingual in Spanish, but many are monolingual Tzotzil speakers. In Central Chiapas, some primary schools and a secondary school are taught in Tzotzil."
+  },
+  {
+    "id": 8,
+    "name": "Mixtec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mixtecos.png/500px-Mixtecos.png",
+    "imgAlt": "the area where the Mixtec language was spoken back then",
+    "population": "530,000",
+    "description": "Mixtec is spoken in Mexico and is closely related to Trique and Cuicatec."
+  },
+  {
+    "id": 9,
+    "name": "Zapotec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Zapotecos.png/500px-Zapotecos.png",
+    "imgAlt": "Image ith a region of where Zapotec Empire was and where people used to speak the language",
+    "population": "490,000",
+    "description": "anguages are a group of around 50 closely related indigenous Mesoamerican languages that constitute a main branch of the Oto-Manguean language family and are spoken by the Zapotec people from the southwestern-central highlands of Mexico."
+  },
+  {
+    "id": 10,
+    "name": "Otomí",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Otomi_language.png",
+    "imgAlt": "Regions where the Otomí language used to be spoken",
+    "population": "300,000",
+    "description": "Otomi consists of several closely related languages, many of which are not mutually intelligible."
   }
 ]
