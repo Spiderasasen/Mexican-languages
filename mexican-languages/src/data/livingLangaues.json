@@ -133,7 +133,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarahumara_precontact_and_modern.svg/500px-Tarahumara_precontact_and_modern.svg.png",
     "imgAlt": "The region where Tarahumara is being spoken today",
     "population": "92,000",
-    "description": "Rarámuri is spoken by 70,000 or more Indigenous Mexicans living in the state of Chihuahua. There is no consensus among specialists on the number of dialects: competing proposals include two (Western and Eastern);[4] four (Western, Northern, Southern, Eastern);[5] and five, according to field surveys conducted in the 1990s by linguists working for the Mexican government"
+    "description": "Rarámuri is spoken by 70,000 or more Indigenous Mexicans living in the state of Chihuahua. There is no consensus among specialists on the number of dialects: competing proposals include two (Western and Eastern); four (Western, Northern, Southern, Eastern); and five, according to field surveys conducted in the 1990s by linguists working for the Mexican government"
   },
   {
     "id": 18,
@@ -149,7 +149,7 @@
     "image": "https://www.familysearch.org/en/wiki/img_auth.php/7/72/Meseta_Comiteca_Tojolabal_Region%2C_Chiapas_State%2C_Mexico_Map.png",
     "imgAlt": "The region where Tojolab'al is being spoken in today",
     "population": "67,000",
-    "description": "a Mayan language spoken in Chiapas, Mexico by the Tojolabal people. Tojol-ab'al is spoken, principally in the departments of the Chiapanecan Colonia of Las Margaritas, by about 70,000 people.[1] It is related to the Chuj language."
+    "description": "a Mayan language spoken in Chiapas, Mexico by the Tojolabal people. Tojol-ab'al is spoken, principally in the departments of the Chiapanecan Colonia of Las Margaritas, by about 70,000 people. It is related to the Chuj language."
   },
   {
     "id": 20,
@@ -321,10 +321,218 @@
   },
   {
     "id": 41,
-    "name": "Acateco",
-    "image": "",
-    "imgAlt": "Region where Acateco is spoken",
-    "population": "",
-    "description": ""
+    "name": "Akateko",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Huehuetenango_in_Guatemala.svg",
+    "imgAlt": "Region where Akateko is mainly spoken",
+    "population": "67,900",
+    "description": "Akatek is a Mayan language spoken by the Akateko people primarily in the Huehuetenango Department, Guatemala in and around the municipalities of Concepción Huista, Nentón, San Miguel Acatán, San Rafael La Independencia and San Sebastián Coatán. A number of speakers also live in Chiapas, Mexico."
+  },
+  {
+    "id": 42,
+    "name": "Chichimeca jonaz",
+    "image": "https://mexico.sil.org/sites/mexico/files/10bmi-chichimeca-mapa.gif",
+    "imgAlt": "Shared map of both Chichimeca Jonaz and Chichimeca Pame.",
+    "population": "2,400 ",
+    "description": "Chichimeca or Chichimeca Jonaz is an indigenous language of Mexico spoken by around 200 Chichimeca Jonaz people in Misión de Chichimecas near San Luis de la Paz in the state of Guanajuato."
+  },
+  {
+    "id": 43,
+    "name": "Ocuilteco",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Matlatzinca_languages.png/500px-Matlatzinca_languages.png",
+    "imgAlt": "Region where Ocuilteco is spoken",
+    "population": "2,238",
+    "description": "Ocuiltec is spoken primarily in the municipality of Ocuilan in the villages Cinco Caminos, Colonia Doctor Gustavo Baz, El Capulín, El Totoc (San José Totoc), Lomas de Teocaltzingo (Loma de Tecalzingo), Ocuilán de Artéaga, San Juan Atzingo, Santa Lucía, Santa Martha, and Santa María Nativitas. It may have been spoken in the adjacent area of Morelos, though Matlatzinca could have also existed in it."
+  },
+  {
+    "id": 44,
+    "name": "Guarijío",
+    "image": "https://dnet8ble6lm7w.cloudfront.net/maps_lg/MEX/MEX0057.png",
+    "imgAlt": "Region where Guarijío is being spoken",
+    "population": "2,201",
+    "description": "The Guarijío language group belongs to the Uto-Aztecan family; genetically, Guarijío is very closely related to Tarahumara. Guarijío is spoken in the states of Chihuahua and Sonora."
+  },
+  {
+    "id": 45,
+    "name": "Q'eqchí",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/48-qeqchi-maya-q-eqchi.jpg",
+    "imgAlt": "Region of Q'eqchí is being spoeken today",
+    "population": "1,279",
+    "description": "Q'eqchi ' is a Mayan language and the only K'ichean language spoken in Mexico. "
+  },
+  {
+    "id": 46,
+    "name": "Matlatzinca",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/31-matlatzinca-oto-mangue-matlatzinca1.jpg",
+    "imgAlt": "Region where Matlatzinca is being spoken",
+    "population": "1,200",
+    "description": "is an endangered Oto-Manguean language of Western Central Mexico."
+  },
+  {
+    "id": 47,
+    "name": "Pima Bajo",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/44-pima-yuto-hahua-pima1.jpg",
+    "imgAlt": "Region where Pima Bajo is being spoken",
+    "population": 740,
+    "description": "a Mexican indigenous language of the Piman branch of the Uto-Aztecan language family, spoken by around 1,000 speakers in northern Mexico."
+  },
+  {
+    "id": 48,
+    "name": "Ngiba/Ngiwa",
+    "image": "https://d309zx38sewmgu.cloudfront.net/2022/02/45-popoloca-oto-mangue-mexico.jpg",
+    "imgAlt": "The gernal region of where Ngiwa is being spoeken",
+    "population": "Approximately 18,935",
+    "description": "Ngiba (Popoloca) language, its four dialectal variants are included in UNESCO's Atlas of the World's Languages \u200B\u200Bin Danger , and two are listed by INALI (the National Institute of Indigenous Languages) as being at high risk of extinction."
+  },
+  {
+    "id": 49,
+    "name": "Lacandón",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/29-lacandon-maya-lacandon1.jpg",
+    "imgAlt": "Region where Lacandón is being spoken in",
+    "population": "1,000",
+    "description": "also known as Jach-t'aan, is considered to be at medium risk of extinction. The language most closely related to Jach-t'aan is Yucatec Maya, or Maayat'aan ."
+  },
+  {
+    "id": 50,
+    "name": "Seri",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/51-seri-seri.jpg",
+    "imgAlt": "Region where Seri is being spoken",
+    "population": 720,
+    "description": "There have been attempts to relate Seri to other languages \u200B\u200Band include it in an established family, but current linguistic evidence shows that Seri does not share characteristics that would place it in any family. Consequently, Seri can be considered a language isolate"
+  },
+  {
+    "id": 51,
+    "name": "Kʼicheʼ",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/23-kiche-maya-k-iche.jpg",
+    "imgAlt": "Region where Kʼicheʼ is being spoken",
+    "population": "1.1 million",
+    "description": "a Mayan language spoken by the Kʼicheʼ people of the central highlands in Guatemala and Mexico."
+  },
+  {
+    "id": 52,
+    "name": "Kumiai",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/28-kumiai-cochimi-yumana-kumiai1.jpg",
+    "imgAlt": "Region where Kumiai is being spoken",
+    "population": 500,
+    "description": "The Kumiai language , or Tipai as its speakers call it, belongs to the Cochimí-Yuman language family. Its closest relatives are Lipai and Jamu, both spoken in the United States. Currently, it is a language at very high risk of extinction."
+  },
+  {
+    "id": 53,
+    "name": "Teko",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/54-teko-maya-teko1.jpg",
+    "imgAlt": "Region where Teko is being spoken today",
+    "population": "3,100",
+    "description": "Tektitek (name in Guatemala) or Teko (name in Mexico), called b'a'aj by native speakers, (also known as Tectiteco, Teco, Kʼontiʼl, Qyool, among others) is a Mayan language classified under the Mamean branch, spoken by the Teko people of Chiapas, Mexico and southern Huehuetenango Department, Guatemala."
+  },
+  {
+    "id": 54,
+    "name": "Paipai",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/41-paipai-cochimi-yumana-paipai.jpg",
+    "imgAlt": "Region where Paipai is being spoken",
+    "population": 230,
+    "description": "Paipai , or Jaspuypai as its speakers call it , is spoken in the state of Baja California, in the municipality of Ensenada. It belongs to the Cochimí-Yuman language family."
+  },
+  {
+    "id": 55,
+    "name": "Tohono O’odham",
+    "image": "https://www.southsidepresbyterian.org/uploads/1/3/2/0/13209972/published/map-tohono-south-side-heritage_1.jpg",
+    "imgAlt": "Region where Tohono O’odham is being spoken",
+    "population": "15,000",
+    "description": "a Uto-Aztecan language of southern Arizona and northern Sonora, Mexico, where the Tohono Oʼodham (formerly called the Papago) and Akimel Oʼodham (traditionally called Pima) reside."
+  },
+  {
+    "id": 56,
+    "name": "Ixcatec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mixteco_y_idiomas_circundantes-es.svg",
+    "imgAlt": "Map with a bunch of sub languages in the map, one of the sub languages is Ixcatec",
+    "population": 2,
+    "description": "The small number of current speakers is the result of a steady decline over the last 60 years, which can be attributed to anti-illiteracy campaigns by the Mexican government that discouraged the use of indigenous languages, migration from the area to the cities, and the small initial population of speakers of the language."
+  },
+  {
+    "id": 57,
+    "name": "Kaqchikel",
+    "image" : "http://atlas.inpi.gob.mx/wp-content/uploads/24-kaqchikel-maya-kaqchikel1.jpg",
+    "imgAlt": "Region where Kaqchikel is being spoken in",
+    "population": "410,000",
+    "description": "Kaqchikel is a Mayan language; its sister language is Tz'utujil (spoken in Guatemala)."
+  },
+  {
+    "id": 58,
+    "name": "Cucapá",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/14-cucapa-cochimi-yumana-cucapa1.jpg",
+    "imgAlt": "Region where Cucapá is being spoken",
+    "population": 180,
+    "description": "The Cucapá or Kuapá language belongs to the Cochimí-Yuman family and has no internal variation. It is spoken in the states of Baja California and Sonora."
+  },
+  {
+    "id": 59,
+    "name": "Popti",
+    "image": "https://d309zx38sewmgu.cloudfront.net/2020/03/Mapa-linguistico-Guatemala.jpg",
+    "imgAlt": "Map of all the different languages in Guatemala, having Polti right below Chuj",
+    "population": "33,000",
+    "description": "The Jakaltek language, also known as Jakalteko or Poptiʼ, is a Mayan language from the Q’anjob’alan-chujean branch spoken by the Jakaltek people in some municipalities in the state of Chiapas, Mexico and the municipality of Jacaltenango in the department of Huehuetenango, Guatemala in the border between both countries."
+  },
+  {
+    "id": 60,
+    "name": "Ayapaneco",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/04-ayapaneco-mixe-zoque-ayapaneco1.jpg",
+    "imgAlt": "Region where Ayapaneco is being spoken",
+    "population": 15,
+    "description": "It is spoken in the state of Tabasco and together with the Texistepeceño and the Popoluca of the Sierra make up the Gulf Zoquean branch of the Mixe-Zoquean family."
+  },
+  {
+    "id": 61,
+    "name": "Ixil",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/21-ixil-maya-ixil1.jpg",
+    "imgAlt": "region where the Ixil langagues is being spoken",
+    "population": "120,000",
+    "description": "Ixil is a Mayan language, genetically very close to Awakateko. It is spoken in the states of Campeche and Quintana Roo"
+  },
+  {
+    "id": 62,
+    "name": "Oluteco",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/39-oluteco-mixe-zoque-oluteco.jpg",
+    "imgAlt": "Region where Oluteco is being spoken",
+    "population": 1,
+    "description": "It has no variants and is spoken in the state of Veracruz, in the municipality of Oluta, hence its name."
+  },
+  {
+    "id": 63,
+    "name": "Kiliwa",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/26-kiliwa-cochimi-yumana-kiliwa.jpg",
+    "imgAlt": "Region where Kiliwa is being spoken",
+    "population": 76,
+    "description": " Kiliwa, or Ko'lew, belongs to the Cochimí-Yuman language family and is spoken in eight communities in the municipality of Ensenada, Baja California ."
+  },
+  {
+    "id": 64,
+    "name": "Kikapú",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/25-kickapoo-algica-kickapoo1.jpg",
+    "imgAlt": "Region where Kikapú is being spoken",
+    "population": 710,
+    "description": "The Kickapoo language is the only representative of the Algic language family found in Mexico."
+  },
+  {
+    "id": 65,
+    "name": "Aguacatec",
+    "image": "https://erbell.wordpress.com/wp-content/uploads/2010/03/lenguas.jpg",
+    "imgAlt": "A map of all the different indigenous languages in Guatemala with Aguacatec being retested in a dark blue dot.",
+    "population": "10,120",
+    "description": "Awakatek (also known as Aguateco, Awaketec, Coyotin, and Balamiha, and natively as Qa'yol) is a Mayan language spoken in Guatemala, primarily in Huehuetenango and around Aguacatán. The language only has fewer than 10,000 speakers, and is considered vulnerable by UNESCO. In addition, the language in Mexico is at high risk of endangerment"
+  },
+  {
+    "id": 66,
+    "name": "Tlahuica",
+    "image": "http://atlas.inpi.gob.mx/wp-content/uploads/59-tlahuica-oto-mangue-tlahuica.jpg",
+    "imgAlt": "Region where Tlahuica is being spoken",
+    "population": "2,238",
+    "description": "Pjiekakjoo, also known as Tlahuica or Ocuilteco (both exonyms, meaning names given to the language by non-speakers), is a language belonging to the Oto-Manguean family; the closest language to Tlahuica is Matlatzinca. It is spoken in the municipality of Ocuilán in the State of Mexico."
+  },
+  {
+    "id": 67,
+    "name": "Poqomchi",
+    "image": "https://oxfordre.com/linguistics/doc/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-60-graphic-002-full.gif",
+    "imgAlt": "Region where Poqomchi is being spoken",
+    "population": "133,000",
+    "description": "Poqomchiʼ is a Quichean-Mamean Mayan language spoken in central Guatamala"
   }
 ]
