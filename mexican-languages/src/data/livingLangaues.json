@@ -201,7 +201,7 @@
   },
   {
     "id": 26,
-    "name": "Popoluca",
+    "name": "Popoloca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
     "imgAlt": "The region where Popoluca is spoeken",
     "population": "17,000",
@@ -230,5 +230,93 @@
     "imgAlt": "The region where Yaqui is being spoken today",
     "population": "16,000",
     "description": "primary homelands are in Río Yaqui valley in the northwestern Mexican state of Sonora. Today, there are eight Yaqui Pueblos in Sonora."
+  },
+  {
+    "id": 30,
+    "name": "Huave",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Huavetowns.png/500px-Huavetowns.png",
+    "imgAlt": "Region where Huave is being spoken",
+    "population": "20,000",
+    "description": "The language is spoken in four villages on the Isthmus of Tehuantepec, in the southeast of the state"
+  },
+  {
+    "id": 31,
+    "name": "Popoluca",
+    "image": "https://mexico.sil.org/sites/mexico/files/10hmi-popoloca-mapa.gif",
+    "imgAlt": "Region where Popoluca was spoken, its not as well known as Popoloca",
+    "population": "30,000",
+    "description": "Sierra Popoluca (poi) and Texistepec Popoluca (poq) are Zoquean; that is, they are more closely related to the Zoque languages of Chiapas, Oaxaca and Tabasco than to the nearby Sayula and Oluta Popoluca languages."
+  },
+  {
+    "id": 32,
+    "name": "Cuicatec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cuicatec_map.svg/500px-Cuicatec_map.svg.png",
+    "imgAlt": "Region where Cuicatec is spoken",
+    "population": "13,000",
+    "description": "The Ethnologue lists two major dialects of Cuicatec: Tepeuxila Cuicatec and Teutila Cuicatec."
+  },
+  {
+    "id": 33,
+    "name": "Pame",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
+    "imgAlt": "region where the Pame langagues are still being spoken to today",
+    "population": "12,000",
+    "description": "The Pame languages are a group of languages in Mexico that is spoken by around 12,000 Pame people in the state of San Luis Potosí. It belongs to the Oto-Pamean branch of the Oto-Manguean language family."
+  },
+  {
+    "id": 34,
+    "name": "Mam",
+    "image": "https://www.muturzikin.com/cartesamerique/imagesamerique/2.png",
+    "imgAlt": "On number 4 of the map, you will see the Mam language",
+    "population": "500,000",
+    "description": "spoken by around half a million people in Guatemala and Mexico."
+  },
+  {
+    "id": 35,
+    "name": "Q'anjob'al",
+    "image": "https://d309zx38sewmgu.cloudfront.net/2020/03/mapa-qanjobal.jpg",
+    "imgAlt": "The region of Q'anjob'al is spoken",
+    "population": "180,000",
+    "description": " a Mayan language from the Q'anjobalan branch spoken primarily in Guatemala and part of Mexico."
+  },
+  {
+    "id": 36,
+    "name": "Tepehuano del Norte",
+    "image": "https://images.squarespace-cdn.com/content/v1/64cc9696adbf064fb79201c6/5c720ffb-c13e-4378-8716-30f0295ce035/Durango-8.png",
+    "imgAlt": "Region where Tepehuano del Norte is spoken",
+    "population": "10,000",
+    "description": "Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers."
+  },
+  {
+    "id": 37,
+    "name": "Tepehua",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tepehua_location_map.svg/500px-Tepehua_location_map.svg.png",
+    "imgAlt": "region where Tepehua is spoken",
+    "population": "16,051",
+    "description": "They speak Tepehua languages, which belong to the Totonacan language family."
+  },
+  {
+    "id": 38,
+    "name": "Chontal de Oaxaca",
+    "image": "https://mexico.sil.org/sites/mexico/files/10cmi-chontal-mapa.gif",
+    "imgAlt": "region where Chontal de Oaxaca is spoken",
+    "population": "45,000",
+    "description": "The Chontal spoken in the state of Oaxaca, and usually referred to as Oaxaca Chontal, is a language family that has not been shown to be related to any other"
+  },
+  {
+    "id": 39,
+    "name": "Sayultec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mixezoquemap.png/500px-Mixezoquemap.png",
+    "imgAlt": "Map where multiple sub languages are spoken, with Sayultec being one of the sub languages.",
+    "population": "4,800",
+    "description": "is a Mixean language spoken by around 5,000 indigenous people in and around the town of Sayula de Alemán in the southern part of the state of Veracruz, Mexico."
+  },
+  {
+    "id": 40,
+    "name": "Chuj",
+    "image": "https://www.muturzikin.com/cartesamerique/imagesamerique/2.png",
+    "imgAlt": "regions of indigenous languages being spoken in both Guatemala and also Mexico. Chuj is number one of the map.",
+    "population": "59,000",
+    "description": "a Mayan language spoken by around 40,000 members of the Chuj people in Guatemala and around 3,000 members in Mexico."
   }
 ]
