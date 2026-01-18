@@ -318,5 +318,13 @@
     "imgAlt": "regions of indigenous languages being spoken in both Guatemala and also Mexico. Chuj is number one of the map.",
     "population": "59,000",
     "description": "a Mayan language spoken by around 40,000 members of the Chuj people in Guatemala and around 3,000 members in Mexico."
+  },
+  {
+    "id": 41,
+    "name": "Acateco",
+    "image": "",
+    "imgAlt": "Region where Acateco is spoken",
+    "population": "",
+    "description": ""
   }
 ]
