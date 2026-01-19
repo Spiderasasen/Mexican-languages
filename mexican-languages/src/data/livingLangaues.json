@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Ch'ol",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
-    "imgAlt": "In light blue, the region where the Ch'ol langague is being spoken",
+    "imgAlt": "In light blue, the region where the Ch'ol language is being spoken",
     "population": "250,000",
     "description": "Ch’ol is spoken mainly in the northern jungles and river regions of Chiapas and Tabasco, especially around Tila, Tumbalá, Salto de Agua, Palenque, and the surrounding rural communities. It’s one of the major Mayan languages that has remained strong across generations, with many families still raising children in Ch’ol as their first language. The language carries a deep connection to the rainforest environment — its vocabulary reflects the plants, animals, and waterways that shape daily life. Ch’ol also has a long literary and ceremonial tradition, and its speakers were historically linked to the Classic Maya world, including the region around Palenque. Today, Ch’ol continues to thrive in both rural and urban settings, keeping its cultural and linguistic heritage very much alive."
   },
@@ -259,7 +259,7 @@
     "id": 33,
     "name": "Pame",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
-    "imgAlt": "region where the Pame langagues are still being spoken to today",
+    "imgAlt": "region where the Pame languages are still being spoken to today",
     "population": "12,000",
     "description": "Pame is spoken in the mountainous region of the Sierra Gorda, mainly in northern Querétaro and parts of San Luis Potosí, where steep canyons, oak forests, and scattered highland settlements shaped the isolation of its communities. It belongs to the Oto‑Manguean family, forming its own distinct branch with three closely related varieties that diverged as groups settled different ridges and valleys. Its overall population — about 12,000 speakers — is small due to long‑term migration, pressure from Spanish in nearby towns, and the fragmentation of communities across difficult terrain. A defining cultural detail is the Pame tradition of ritual music using three‑stringed fiddles and handmade drums, performances tied to agricultural cycles and the spiritual landscape of the Sierra Gorda."
   },
@@ -405,7 +405,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/23-kiche-maya-k-iche.jpg",
     "imgAlt": "Region where Kʼicheʼ is being spoken",
     "population": "1.1 million",
-    "description": "a Mayan language spoken by the Kʼicheʼ people of the central highlands in Guatemala and Mexico."
+    "description": "Kʼicheʼ is spoken throughout the Guatemalan highlands, especially in the departments of Quiché, Totonicapán, Sololá, and parts of Chimaltenango, where large, interconnected communities have maintained the language across centuries of political, cultural, and environmental change. It belongs to the Mayan family, forming one of its major branches and carrying a deep literary tradition that includes the Popol Wuj, one of the most important Indigenous texts in the Americas. With about 1.1 million speakers, Kʼicheʼ remains one of the strongest Indigenous languages in Mesoamerica, yet it continues to face pressure from migration, urbanization, and the dominance of Spanish in education and public life. A defining cultural thread is the persistence of highland ceremonial practices, where offerings of candles, copal, and woven cloth maintain a living relationship with ancestors and the sacred landscape."
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/28-kumiai-cochimi-yumana-kumiai1.jpg",
     "imgAlt": "Region where Kumiai is being spoken",
     "population": 500,
-    "description": "The Kumiai language , or Tipai as its speakers call it, belongs to the Cochimí-Yuman language family. Its closest relatives are Lipai and Jamu, both spoken in the United States. Currently, it is a language at very high risk of extinction."
+    "description": "Kumiai is spoken in the northernmost part of Baja California, especially in the communities of San José de la Zorra, La Huerta, and Juntas de Nejí, where small, scattered families maintain the language in close relationship with the chaparral hills, oak groves, and coastal valleys of their ancestral territory. It belongs to the Yuman family, sharing deep historical ties with the Indigenous peoples of southern California. With only 500 speakers, Kumiai falls into the vulnerable tier of our language system — a small population where intergenerational transmission is fragile and the language survives through the commitment of a few tightly connected households. A defining cultural thread is the tradition of seasonal gathering and land‑based knowledge, where practices like acorn processing, plant harvesting, and fire stewardship remain central to community identity."
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/54-teko-maya-teko1.jpg",
     "imgAlt": "Region where Teko is being spoken today",
     "population": "3,100",
-    "description": "Tektitek (name in Guatemala) or Teko (name in Mexico), called b'a'aj by native speakers, (also known as Tectiteco, Teco, Kʼontiʼl, Qyool, among others) is a Mayan language classified under the Mamean branch, spoken by the Teko people of Chiapas, Mexico and southern Huehuetenango Department, Guatemala."
+    "description": "Teko (also called *Tzeltal‑Teko* or *Teko de Chiapas*) is spoken in the southeastern region of Chiapas, especially around the municipality of Amatenango del Valle and nearby highland communities where families maintain the language in close connection with local weaving traditions and agricultural cycles. It belongs to the Mayan family, forming part of the Tzeltalan branch alongside Tzeltal and Chʼol, though it has developed its own distinct sound patterns and ceremonial vocabulary. With about 3,100 speakers, Teko sits in the vulnerable tier of our language system — a small population where transmission continues but is increasingly pressured by migration, schooling in Spanish, and the pull of nearby urban centers. A defining cultural thread is the tradition of clay pottery and ritual offerings, where craftwork, earth, and language remain intertwined in everyday life."
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/41-paipai-cochimi-yumana-paipai.jpg",
     "imgAlt": "Region where Paipai is being spoken",
     "population": 230,
-    "description": "Paipai , or Jaspuypai as its speakers call it , is spoken in the state of Baja California, in the municipality of Ensenada. It belongs to the Cochimí-Yuman language family."
+    "description": "Paipai is spoken in the northern mountains of Baja California, especially around Santa Catarina, where a small number of families maintain the language in close relationship with the rugged canyons, oak woodlands, and desert foothills of their ancestral territory. It belongs to the Yuman family, sharing deep historical ties with Kumiai, Kiliwa, and the Indigenous peoples of southern California. With only 230 speakers, Paipai falls into the endangered tier of our language system — a community small enough that transmission depends on a handful of households, and where shifts toward Spanish have accelerated in recent decades. A defining cultural thread is the tradition of seasonal plant knowledge, including gathering, roasting, and processing agave and mesquite, practices that carry ecological memory as well as linguistic continuity."
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "image": "https://www.southsidepresbyterian.org/uploads/1/3/2/0/13209972/published/map-tohono-south-side-heritage_1.jpg",
     "imgAlt": "Region where Tohono O’odham is being spoken",
     "population": "15,000",
-    "description": "a Uto-Aztecan language of southern Arizona and northern Sonora, Mexico, where the Tohono Oʼodham (formerly called the Papago) and Akimel Oʼodham (traditionally called Pima) reside."
+    "description": "Tohono O’odham originated in the Sonoran Desert, a vast cultural and ecological region that long predates the U.S.–Mexico border, with ancestral roots stretching across what is now southern Arizona and northern Sonora. In Mexico today, it is spoken primarily in northwestern Sonora, especially around the communities of Caborca, Altar, and the desert settlements near the Sierra del Pinacate, where families maintain the language in close relationship with the saguaro forests and dry riverbeds that define their homeland. It belongs to the Uto‑Aztecan family, forming part of the Tepiman branch alongside Akimel O’odham and other desert languages. With about 15,000 speakers, it sits in the mid‑range tier of our language system — a population large enough to sustain cultural life but still vulnerable to pressures from cross‑border migration, Spanish‑ and English‑dominant schooling, and the challenges of maintaining desert‑based traditions in modern contexts. A defining cultural thread is the practice of saguaro fruit harvesting, a seasonal ritual that ties language, land, and ancestral memory to the rhythms of the desert."
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mixteco_y_idiomas_circundantes-es.svg",
     "imgAlt": "Map with a bunch of sub languages in the map, one of the sub languages is Ixcatec",
     "population": 2,
-    "description": "The small number of current speakers is the result of a steady decline over the last 60 years, which can be attributed to anti-illiteracy campaigns by the Mexican government that discouraged the use of indigenous languages, migration from the area to the cities, and the small initial population of speakers of the language."
+    "description": "Ixcatec is spoken in the small community of Santa María Ixcatlán, Oaxaca, a remote highland town whose isolation once protected the language but now leaves it in a state of extreme fragility. It belongs to the Oto‑Manguean family, forming its own distinct branch with no close surviving relatives. With only 2 speakers, it falls into the most urgent tier of our language system — a language on the edge of silence, where every word spoken is part of a living archive held by individuals who carry centuries of cultural memory. Its decline to just two native speakers stems from decades of migration, pressure from Spanish‑only schooling, and the shift toward Spanish within families, which broke the chain of intergenerational transmission. Fortunately, Ixcatec does have documentation, including linguistic descriptions, wordlists, and some recordings, but these materials are limited and cannot replace the knowledge held by the last speakers. Preserving the language now depends on immediate, careful work with those individuals, ensuring that their voices and stories are recorded before they are lost forever."
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "image" : "http://atlas.inpi.gob.mx/wp-content/uploads/24-kaqchikel-maya-kaqchikel1.jpg",
     "imgAlt": "Region where Kaqchikel is being spoken in",
     "population": "410,000",
-    "description": "Kaqchikel is a Mayan language; its sister language is Tz'utujil (spoken in Guatemala)."
+    "description": "Kaqchikel is spoken in the central highlands of Guatemala, especially in the departments of Chimaltenango, Sacatepéquez, Sololá, and parts of Guatemala’s central valleys, where towns and villages maintain the language through dense community networks, market life, and long‑standing ceremonial traditions. It belongs to the Mayan family, forming part of the K’iche’an branch alongside K’iche’, Tz’utujil, and Sakapultek. With about 410,000 speakers, Kaqchikel stands as one of the strongest Indigenous languages in Mesoamerica, though it still faces pressure from urban migration, Spanish‑dominant schooling, and the economic pull of Guatemala City. A defining cultural thread is the tradition of highland market days, where woven textiles, agricultural goods, and ceremonial items circulate alongside the language, keeping Kaqchikel deeply rooted in everyday social and economic life."
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/14-cucapa-cochimi-yumana-cucapa1.jpg",
     "imgAlt": "Region where Cucapá is being spoken",
     "population": 180,
-    "description": "The Cucapá or Kuapá language belongs to the Cochimí-Yuman family and has no internal variation. It is spoken in the states of Baja California and Sonora."
+    "description": "Cucapá is spoken in the Colorado River delta region of northern Baja California, especially near El Mayor and the communities south of Mexicali, where families maintain the language in close relationship with the riverbanks, wetlands, and desert edges that shaped their ancestral world. It belongs to the Yuman family, sharing deep ties with the peoples of the lower Colorado River. With only 180 speakers, Cucapá falls into the endangered tier of our language system — a small population where transmission has weakened due to displacement from the river, environmental changes that disrupted traditional fishing, and the long‑term pressure of Spanish in schools and daily life. A defining cultural thread is the tradition of river‑based fishing and ceremonial songs, practices that carry ecological memory and connect the community to the shifting waters of the delta."
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "image": "https://d309zx38sewmgu.cloudfront.net/2020/03/Mapa-linguistico-Guatemala.jpg",
     "imgAlt": "Map of all the different languages in Guatemala, having Polti right below Chuj",
     "population": "33,000",
-    "description": "The Jakaltek language, also known as Jakalteko or Poptiʼ, is a Mayan language from the Q’anjob’alan-chujean branch spoken by the Jakaltek people in some municipalities in the state of Chiapas, Mexico and the municipality of Jacaltenango in the department of Huehuetenango, Guatemala in the border between both countries."
+    "description": "Popti’ (also known as Jakalteko) is spoken in the northwestern highlands of Guatemala, especially in the department of Huehuetenango near Jacaltenango, Santa Eulalia, and the surrounding mountain communities that maintain dense social networks and long‑standing ceremonial traditions. It belongs to the Mayan family, forming part of the Q’anjob’alan branch alongside Q’anjob’al, Akateko, and Chuj. With about 33,000 speakers, Popti’ sits comfortably in the mid‑range tier of our language system — a strong community language that continues to be transmitted to children, though it still faces pressure from migration, Spanish‑dominant schooling, and the economic pull of nearby urban centers. A defining cultural thread is the tradition of highland musical ceremonies, where marimba, dance, and ritual offerings keep the language woven into community celebrations and ancestral memory."
   },
   {
     "id": 60,
@@ -477,15 +477,15 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/04-ayapaneco-mixe-zoque-ayapaneco1.jpg",
     "imgAlt": "Region where Ayapaneco is being spoken",
     "population": 15,
-    "description": "It is spoken in the state of Tabasco and together with the Texistepeceño and the Popoluca of the Sierra make up the Gulf Zoquean branch of the Mixe-Zoquean family."
+    "description": "Ayapaneco is spoken in the town of Ayapa, Tabasco, a small community in the tropical lowlands where the language once formed part of everyday life but now survives only through the memories of a few elders. It belongs to the Mixe‑Zoque family, one of the oldest linguistic lineages in southern Mexico. With only 15 speakers, Ayapaneco falls into the critical‑danger tier of our language system — a language whose survival depends on a very small group of older adults. Its decline stems from decades of Spanish‑only schooling, local stigma toward Indigenous languages, and the shift toward Spanish within families, which broke the chain of transmission by the mid‑20th century. Although some documentation exists, including wordlists and recordings, the living knowledge held by the remaining speakers is irreplaceable. A defining cultural thread is the memory of community gatherings and oral storytelling, where elders once shared histories, jokes, and local wisdom in Ayapaneco, anchoring the language to the social life of the town."
   },
   {
     "id": 61,
     "name": "Ixil",
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/21-ixil-maya-ixil1.jpg",
-    "imgAlt": "region where the Ixil langagues is being spoken",
+    "imgAlt": "region where the Ixil languages is being spoken",
     "population": "120,000",
-    "description": "Ixil is a Mayan language, genetically very close to Awakateko. It is spoken in the states of Campeche and Quintana Roo"
+    "description": "Ixil is spoken in the northwestern highlands of Guatemala, especially in the three closely connected towns of Nebaj, Chajul, and San Juan Cotzal — a region often called the *Ixil Triangle*, where the language remains deeply tied to mountain agriculture, communal life, and ceremonial traditions. It belongs to the Mayan family, forming part of the K’iche’an branch alongside K’iche’, Tz’utujil, and Sakapultek. With about 120,000 speakers, Ixil sits comfortably in the strong‑community tier of our language system — a language with solid transmission to children, though still shaped by the long historical impacts of conflict, migration, and Spanish‑dominant schooling. A defining cultural thread is the tradition of highland weaving and ceremonial processions, where textiles, music, and offerings maintain a living connection between the Ixil people, their ancestors, and the surrounding mountains."
   },
   {
     "id": 62,
@@ -493,7 +493,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/39-oluteco-mixe-zoque-oluteco.jpg",
     "imgAlt": "Region where Oluteco is being spoken",
     "population": 1,
-    "description": "It has no variants and is spoken in the state of Veracruz, in the municipality of Oluta, hence its name."
+    "description": "Oluteco (also called *Olutec* or *Hueyapanec*) is spoken in the town of Oluta, Veracruz, a small community in the Gulf lowlands where the language once formed part of everyday life but now survives only through the memory of a single elder. It belongs to the Mixe‑Zoque family, closely related to Sayula Popoluca and other Zoquean languages of southern Veracruz. With only 1 speaker, Oluteco stands at the most urgent level of our language system — a language held entirely by one person, where every word spoken is a fragment of a world that is otherwise silent. Its decline to a single speaker stems from decades of Spanish‑dominant schooling, local stigma toward Indigenous languages, migration to nearby cities, and the shift toward Spanish within families, which ended intergenerational transmission by the late 20th century. Although some documentation exists — including wordlists, grammatical notes, and a handful of recordings — it is limited, and the living knowledge held by the last speaker is irreplaceable. A defining cultural thread is the memory of local ritual speech and agricultural knowledge, once shared in community gatherings and tied to the rhythms of maize cultivation in the region."
   },
   {
     "id": 63,
@@ -501,7 +501,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/26-kiliwa-cochimi-yumana-kiliwa.jpg",
     "imgAlt": "Region where Kiliwa is being spoken",
     "population": 76,
-    "description": " Kiliwa, or Ko'lew, belongs to the Cochimí-Yuman language family and is spoken in eight communities in the municipality of Ensenada, Baja California ."
+    "description": "Kiliwa is spoken in the Sierra de San Pedro Mártir region of Baja California, especially around the community of Arroyo León, where a small number of families maintain the language in close relationship with the high desert plateaus, canyons, and oak‑juniper landscapes of their ancestral territory. It belongs to the Yuman family, forming its own distinct branch separate from Kumiai, Paipai, and Cocopah. With only 76 speakers, Kiliwa falls into the endangered tier of our language system — a population small enough that transmission has weakened sharply, shaped by decades of displacement from traditional lands, Spanish‑dominant schooling, and the economic pull of nearby towns. A defining cultural thread is the tradition of seasonal gathering and plant‑based knowledge, including the harvesting and processing of agave and other desert resources, practices that carry ecological memory and anchor the language to the land."
   },
   {
     "id": 64,
@@ -509,7 +509,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/25-kickapoo-algica-kickapoo1.jpg",
     "imgAlt": "Region where Kikapú is being spoken",
     "population": 710,
-    "description": "The Kickapoo language is the only representative of the Algic language family found in Mexico."
+    "description": "Kikapú is spoken in northern Coahuila, especially in the community of El Nacimiento near Múzquiz, where families maintain the language through seasonal gatherings and cross‑border movement with their relatives in Texas and Oklahoma. It originated in the Great Lakes region of North America, and the community’s long southward migration — driven by conflict, displacement, and shifting political borders — shaped the distinct identity of the Kikapú people in Mexico. It belongs to the Algonquian family, making it one of the few languages of that lineage spoken in Mexico. With about 710 speakers, it falls into the vulnerable tier of our language system — a small population where transmission continues but is increasingly pressured by migration, Spanish‑dominant schooling, and the pull of nearby towns. A defining cultural thread is the tradition of seasonal ceremonies and communal hunts, practices that maintain kinship ties across borders and keep the language rooted in shared ritual life."
   },
   {
     "id": 65,
@@ -517,7 +517,7 @@
     "image": "https://erbell.wordpress.com/wp-content/uploads/2010/03/lenguas.jpg",
     "imgAlt": "A map of all the different indigenous languages in Guatemala with Aguacatec being retested in a dark blue dot.",
     "population": "10,120",
-    "description": "Awakatek (also known as Aguateco, Awaketec, Coyotin, and Balamiha, and natively as Qa'yol) is a Mayan language spoken in Guatemala, primarily in Huehuetenango and around Aguacatán. The language only has fewer than 10,000 speakers, and is considered vulnerable by UNESCO. In addition, the language in Mexico is at high risk of endangerment"
+    "description": "Aguacatec (also known as Awakateko) is spoken in the northwestern highlands of Guatemala, especially around Aguacatán in the department of Huehuetenango, where the language remains closely tied to mountain agriculture, communal life, and long‑standing ceremonial traditions. It belongs to the Mayan family, forming part of the Q’anjob’alan branch alongside Q’anjob’al, Akateko, and Chuj. With about 10,120 speakers, Aguacatec sits in the mid‑range tier of our language system — a community language that continues to be transmitted to children, though it faces pressure from migration, Spanish‑dominant schooling, and the economic pull of nearby towns and cities. A defining cultural thread is the tradition of highland maize cultivation and ritual offerings, where agricultural cycles, music, and community gatherings keep the language woven into everyday and ceremonial life."
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/59-tlahuica-oto-mangue-tlahuica.jpg",
     "imgAlt": "Region where Tlahuica is being spoken",
     "population": "2,238",
-    "description": "Pjiekakjoo, also known as Tlahuica or Ocuilteco (both exonyms, meaning names given to the language by non-speakers), is a language belonging to the Oto-Manguean family; the closest language to Tlahuica is Matlatzinca. It is spoken in the municipality of Ocuilán in the State of Mexico."
+    "description": "Tlahuica (also known as Pjiekakjoo) is spoken in the central highlands of the State of Mexico, especially in and around San Juan Atzingo in the municipality of Ocuilan, where a small but resilient community maintains the language in close relationship with the surrounding forests and mountain slopes of the Sierra de las Cruces. It belongs to the Oto‑Manguean family, forming part of the Matlatzinca–Tlahuica branch, though it has developed its own distinct sound system and ceremonial vocabulary. With 2,238 speakers, it falls into the vulnerable tier of our language system — a population small enough that transmission is uneven and increasingly pressured by migration, Spanish‑dominant schooling, and the economic pull of nearby Toluca and Mexico City. A defining cultural thread is the tradition of mountain offerings and communal processions, where candles, flowers, and prayers maintain a living relationship with the surrounding landscape and the ancestral spirits tied to it."
   },
   {
     "id": 67,
@@ -533,6 +533,6 @@
     "image": "https://oxfordre.com/linguistics/doc/10.1093/acrefore/9780199384655.001.0001/acrefore-9780199384655-e-60-graphic-002-full.gif",
     "imgAlt": "Region where Poqomchi is being spoken",
     "population": "133,000",
-    "description": "Poqomchiʼ is a Quichean-Mamean Mayan language spoken in central Guatamala"
+    "description": "Poqomchi’ is spoken in the central highlands of Guatemala, especially in the departments of Alta Verapaz and Baja Verapaz, where communities are closely tied to cloud‑forest agriculture, communal land stewardship, and long‑standing ceremonial traditions. It belongs to the Mayan family, forming part of the Q’eqchi’an branch alongside Q’eqchi’ and Uspanteko. With about 133,000 speakers, Poqomchi’ sits firmly in the strong‑community tier of our language system — a language with solid intergenerational transmission, though still shaped by pressures from migration, Spanish‑dominant schooling, and the economic pull of Cobán and other regional centers. A defining cultural thread is the tradition of forest‑based ritual life, where offerings, music, and agricultural cycles maintain a living relationship between Poqomchi’ communities, their ancestors, and the mist‑covered mountains they inhabit."
   }
 ]
