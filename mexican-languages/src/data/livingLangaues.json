@@ -5,7 +5,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Purepecha_map.svg/500px-Purepecha_map.svg.png",
     "imgAlt": "Distribution of Purépecha in Mexico. Green indicates historical language homeland and red is modern-day speakers.",
     "population": "175,000" ,
-    "description": "Purépecha was the principal language of the Tarascan state, which was founded in the early 14th century, occupied more or less same area as Michoacán, and fell to the Spanish in 1530. Purépecha is also known as Tarascan as a result."
+    "description": "Purépecha is spoken mainly in the state of Michoacán, especially in the Meseta Purépecha region around communities like Cherán, Paracho, Nahuatzen, and Pátzcuaro, where it remains part of daily life and local identity. It’s one of the few linguistic isolates in Mexico, meaning it isn’t related to any other Indigenous language in the country, and that uniqueness reflects the long, independent history of the Purépecha people. The language carries the legacy of the Tarascan Empire, a powerful civilization whose metalworking skills were so advanced that even the Aztecs chose to trade with them rather than attempt conquest, a reminder of how deeply rooted and resilient this culture has always been."
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nahuatl_precontact_and_modern.svg/500px-Nahuatl_precontact_and_modern.svg.png",
     "imgAlt": "Current (red) and historical (green) geographic extent of Nahuatl",
     "population": "1.5 million",
-    "description": "There are numerous dialects of Nahuatl, some of which are mutually unintelligible. Most Nahuatl speakers also speak Spanish, except for some of the elderly.\n\nClassical Nahuatl was the language of the Aztec empire and was used as a lingua franca in much of Mesoamerica from the 7th century AD until the Spanish conquest in the 16th century. "
+    "description": "Náhuatl is spoken across several regions of central and southern Mexico, with the largest concentrations in Puebla, Veracruz, Hidalgo, San Luis Potosí, Guerrero, Morelos, Tlaxcala, and the State of Mexico, as well as smaller communities in places like Durango and Michoacán. It’s one of the most widely spoken Indigenous languages in the country and carries a deep historical legacy, since it was the language of the Mexica and many other Nahua peoples long before the rise of the Aztec Empire. Despite centuries of pressure from Spanish, Náhuatl remains a living, evolving language with multiple regional variants, each shaped by the communities that speak it. Fun fact is that many everyday Spanish words in Mexico—like chocolate, tomate, aguacate, and coyote—come directly from Náhuatl, showing how much this language still lives in the country’s culture and daily speech."
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Totonac_map.svg/500px-Totonac_map.svg.png",
     "imgAlt": "Current locations where Totonac is being spoken",
     "population": "260,000",
-    "description": "The Totonac people are an indigenous group native to Totonacapan along the Gulf of Mexico. "
+    "description": "Totonaco is spoken mainly in the Sierra Norte de Puebla and parts of Veracruz, especially around Papantla, Coyutla, Huehuetla, and the mountainous communities that make up the Totonacapan region. It’s not a single uniform language but a group of closely related varieties, each shaped by the geography and history of the communities that speak them. Totonaco carries a long cultural legacy, including the world‑famous Danza de los Voladores, a ceremony that reflects the deep relationship Totonac people have with the land and the sky. Despite pressures from Spanish, many communities continue to pass the language to younger generations, keeping it alive as a central part of their identity."
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "image": "https://catalogo.inpi.gob.mx/wp-content/uploads/2024/08/507-chinanteco-1500x1159-1-900x695.jpg",
     "imgAlt": "Current location of people speaking Chinantec",
     "population": "80,000",
-    "description": " As there is only some mutual intelligibity between the different Chinanteco languages, they are considered by most linguists as separate languages rather than dialects."
+    "description": "Chinanteco refers to a group of related Indigenous languages spoken mainly in the northern highlands of Oaxaca, especially in the Chinantla region around municipalities like Ojitlán, Usila, Valle Nacional, Yolox, and San Juan Lalana. Because the Chinantla is one of the most geographically isolated areas in the state, Chinanteco developed into several distinct varieties, each shaped by the mountains, rivers, and communities that surround them. Despite that diversity, the language remains a core part of local identity, and many towns continue to raise children in Chinanteco as their first language. One remarkable fact is that Chinanteco has one of the most complex tone systems in the Americas, with some varieties using up to five or more tones, giving the language a musical quality that reflects the landscape it comes from."
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yucatec_map.svg/500px-Yucatec_map.svg.png",
     "imgAlt": "Region where the language used to be spoken",
     "population": "775,000",
-    "description": " a Mayan language spoken in the Yucatán Peninsula, including part of northern Belize. There is also a significant diasporic community of Yucatec Maya speakers in San Francisco, though most Maya Americans are speakers of other Mayan languages from Guatemala and Chiapas."
+    "description": "Yucatec Maya is spoken mainly in the Yucatán Peninsula, especially across Yucatán, Campeche, and Quintana Roo, where it remains one of the strongest and most widely used Indigenous languages in Mexico. It’s the modern continuation of the language spoken by the ancient Maya of the region, and you can still hear it in markets, homes, ceremonies, and everyday conversations throughout rural and urban communities. Yucatec Maya has a long literary and cultural tradition, and many place names in the peninsula—like Tulum, Cancún, Mérida, and Uxmal—come directly from it. One fascinating detail is that the famous “Mayan accent” in regional Spanish, especially the soft sh sound, comes from the influence of Yucatec Maya phonology, showing how deeply the language shapes the identity of the peninsula."
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
     "imgAlt": "In green, the location where Tzeltal Mayan was spoken",
     "population": "589,144",
-    "description": "The area in which Tzeltal is spoken can be divided in half by an imaginary north–south line; to the west, near Oxchuc, is the ancestral home of the Tzeltal people, predating Spanish colonials, while the eastern portion was settled primarily in the second half of the twentieth century."
+    "description": "Tzeltal Maya is spoken mainly in the highlands of Chiapas, especially in municipalities like Ocosingo, Altamirano, Tenejapa, Oxchuc, and the surrounding rural communities that make up the Tzeltal region. It’s one of the strongest Mayan languages in Mexico, with many families still raising children in Tzeltal as their first language, which keeps it deeply rooted in daily life, local markets, and community traditions. The language has several regional varieties shaped by the mountains and valleys of Chiapas, but all share a strong cultural continuity that goes back centuries. One especially interesting detail is that Tzeltal uses an “uphill/downhill” way of describing direction, reflecting how closely the language is tied to the landscape and the way people navigate their environment."
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
     "imgAlt": "In Pink, the location where Tzotzil Maya was spoken",
     "population": "550,000",
-    "description": "Some speakers may be somewhat bilingual in Spanish, but many are monolingual Tzotzil speakers. In Central Chiapas, some primary schools and a secondary school are taught in Tzotzil."
+    "description": "Tzotzil Maya is spoken mainly in the central highlands of Chiapas, especially around San Cristóbal de las Casas, Chamula, Zinacantán, Huixtán, and the surrounding communities that make up the Tzotzil region. It’s closely related to Tzeltal, and the two languages share deep historical roots, but Tzotzil has its own sound, rhythm, and cultural identity shaped by the mountains and traditions of the highlands. Many families still raise children in Tzotzil as their first language, which keeps it strong in daily life, local markets, and community ceremonies. One striking detail is that Tzotzil speakers often use rich, metaphorical expressions tied to nature and emotion, reflecting a worldview where language, landscape, and community are deeply interconnected."
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mixtecos.png/500px-Mixtecos.png",
     "imgAlt": "the area where the Mixtec language was spoken back then",
     "population": "530,000",
-    "description": "Mixtec is spoken in Mexico and is closely related to Trique and Cuicatec."
+    "description": "Mixteco refers to a large family of closely related Indigenous languages spoken mainly in Oaxaca, with additional communities in Guerrero and Puebla, especially across the Mixteca Alta, Mixteca Baja, and Mixteca de la Costa regions. Because the Mixteca is geographically diverse and historically interconnected, Mixteco developed into many distinct varieties, each tied to the specific towns and landscapes where it’s spoken. Despite this internal diversity, the language remains a central part of cultural identity, carried through everyday conversation, community traditions, and migration networks that have spread Mixteco far beyond its original territory. One remarkable detail is that the ancient Mixtec codices—painted books that survived the colonial period—preserve some of the most detailed Indigenous historical records in the Americas, showing how deeply rooted and sophisticated Mixtec culture has always been."
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Zapotecos.png/500px-Zapotecos.png",
     "imgAlt": "Image ith a region of where Zapotec Empire was and where people used to speak the language",
     "population": "490,000",
-    "description": "anguages are a group of around 50 closely related indigenous Mesoamerican languages that constitute a main branch of the Oto-Manguean language family and are spoken by the Zapotec people from the southwestern-central highlands of Mexico."
+    "description": "Zapoteco refers to a broad family of Indigenous languages spoken mainly in Oaxaca, especially across the Valles Centrales, the Sierra Norte, the Sierra Sur, the Isthmus of Tehuantepec, and the coastal regions where different Zapotec communities have lived for centuries. Because the terrain is so diverse and the towns are historically independent, Zapoteco developed into many distinct varieties, each with its own sound and identity, yet all tied to a shared cultural heritage. The language remains deeply rooted in community life, with many families still using it at home, in local markets, and in traditional ceremonies. One remarkable fact is that Zapotec civilizations created some of the earliest writing systems in Mesoamerica, leaving behind inscriptions that show just how long their intellectual and cultural history has been part of the region."
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Otomi_language.png",
     "imgAlt": "Regions where the Otomí language used to be spoken",
     "population": "300,000",
-    "description": "Otomi consists of several closely related languages, many of which are not mutually intelligible."
+    "description": "Otomí is spoken mainly in the central highlands of Mexico, especially across Hidalgo, Querétaro, México State, Guanajuato, Puebla, and Michoacán, where different Otomí communities have lived for centuries. It isn’t a single uniform language but a group of related varieties, each shaped by the mountains, valleys, and towns where it developed, giving Otomí a wide range of sounds and expressions. Despite long histories of displacement and pressure from Spanish, many communities continue to pass Otomí to younger generations, keeping it present in daily life, ceremonies, and local governance. One fascinating detail is that Otomí uses a system of inclusive and exclusive “we,” allowing speakers to distinguish whether the listener is part of the group being referred to, which reflects the language’s deep attention to social relationships and community belonging."
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chiapas-Maya.gif",
     "imgAlt": "In light blue, the region where the Ch'ol langague is being spoken",
     "population": "250,000",
-    "description": "The Ch'ol (Chol) language is a member of the western branch of the Mayan language family used by the Ch'ol people in the states of Chiapas, Tabasco, and Campeche in Mexico"
+    "description": "Ch’ol is spoken mainly in the northern jungles and river regions of Chiapas and Tabasco, especially around Tila, Tumbalá, Salto de Agua, Palenque, and the surrounding rural communities. It’s one of the major Mayan languages that has remained strong across generations, with many families still raising children in Ch’ol as their first language. The language carries a deep connection to the rainforest environment — its vocabulary reflects the plants, animals, and waterways that shape daily life. Ch’ol also has a long literary and ceremonial tradition, and its speakers were historically linked to the Classic Maya world, including the region around Palenque. Today, Ch’ol continues to thrive in both rural and urban settings, keeping its cultural and linguistic heritage very much alive."
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Otomanguean_Languages.png",
     "imgAlt": "The region where Mazatec is being spoken today",
     "population": "240,000",
-    "description": "The group is often described as a single language called Mazatec, but because several varieties are not mutually intelligible, they are better described as a group of languages."
+    "description": "Mazateco is spoken in the Sierra Mazateca of northern Oaxaca, especially around Huautla de Jiménez and the surrounding mountain towns, where its steep terrain and cloud‑forest environment shaped the language into several distinct varieties. It’s known for its remarkable whistled speech, a full communication system used across long distances in the mountains, and for its deep ceremonial traditions that tie language, land, and spirituality together. Despite outside pressures, many communities still raise children in Mazateco, keeping it alive as a central part of daily and cultural life."
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Huasteca.png/500px-Huasteca.png",
     "imgAlt": "The region where the Huastec language is being spoken today",
     "population": "170,000",
-    "description": "spoken by the Téenek people living in rural areas of San Luis Potosí and northern Veracruz."
+    "description": "Huastec (Wastek) is spoken in the Huasteca region of northeastern Mexico, especially across San Luis Potosí and northern Veracruz, where river valleys and fertile lowlands shaped the communities that speak it. It’s a Mayan language, but one that split from the rest of the family thousands of years ago, making it one of the most distinct branches of the entire Mayan lineage. A striking cultural detail is that Huastec communities preserved unique musical traditions — including violin‑driven son huasteco — that blend Indigenous roots with later influences, creating one of the most recognizable regional styles in Mexico."
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mazahua_language.png/500px-Mazahua_language.png",
     "imgAlt": "The region where Mazahua is still being spoken today",
     "population": "150,000",
-    "description": " spoken in the central states of Mexico by the ethnic group that is widely known as the Mazahua but calls itself the Hñatho"
+    "description": "Mazahua is spoken in the central highlands of Mexico, especially across the border region of the State of México and Michoacán, where forests, valleys, and cold mountain climates shaped the communities that speak it. It belongs to the Oto‑Manguean language family, sharing deep historical roots with Otomí, though it developed its own distinct sound system, including a set of tones that give it a musical quality. A notable cultural detail is the Mazahua people’s mastery of textile symbolism — their traditional clothing carries woven patterns that encode identity, lineage, and regional belonging, turning fabric into a form of storytelling."
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
     "imgAlt": "The region where Mazahua is still being spoken today",
     "population": "150,000",
-    "description": "Like other Oto-Manguean languages, it is tonal and has complex inflectional morphology."
+    "description": "Tlapanec (Me̱’phaa) is spoken in the mountainous region of La Montaña in eastern Guerrero, where steep ridges and isolated valleys shaped its communities and helped the language develop several distinct local varieties. It belongs to the Oto‑Manguean family, sharing ancient roots with Mixtec and Zapotec, but it evolved its own complex sound system, including contrasts that don’t exist in most other Mexican languages. A notable cultural detail is the Tlapanec tradition of community justice and ritual authority, where elders and ceremonial leaders play a central role in maintaining social balance — a system that reflects centuries of continuity in Me̱’phaa cultural life"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sierra_Mixe.svg/500px-Sierra_Mixe.svg.png",
     "imgAlt": "the regions where Mixe was spoken",
     "population": "140,000",
-    "description": " languages of the Mixean branch of the Mixe–Zoquean language family indigenous to southern Mexico."
+    "description": "Mixe (Ayuujk) is spoken in the Sierra Mixe of northeastern Oaxaca, a rugged mountain region whose isolation helped the language develop several distinct local varieties. It belongs to the Oto‑Manguean family, sharing ancient roots with Zapotec and Mixtec, yet it evolved its own complex sound patterns and a reputation for linguistic resilience. A notable cultural detail is the Mixe concept of “ayüük”, a worldview centered on balance, respect, and communal responsibility, which shapes everything from music and ritual to the region’s famous tradition of exceptionally skilled wind‑instrument musicians."
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarahumara_precontact_and_modern.svg/500px-Tarahumara_precontact_and_modern.svg.png",
     "imgAlt": "The region where Tarahumara is being spoken today",
     "population": "92,000",
-    "description": "Rarámuri is spoken by 70,000 or more Indigenous Mexicans living in the state of Chihuahua. There is no consensus among specialists on the number of dialects: competing proposals include two (Western and Eastern); four (Western, Northern, Southern, Eastern); and five, according to field surveys conducted in the 1990s by linguists working for the Mexican government"
+    "description": "Tarahumara (Rarámuri) is spoken in the Sierra Tarahumara of Chihuahua, a vast canyon and high‑plateau region whose rugged terrain shaped the mobility and independence of its communities. It belongs to the Uto‑Aztecan family, sharing ancient roots with languages like Nahuatl and Hopi, though it developed its own distinct rhythm and structure in the isolation of the northern mountains. A defining cultural detail is the Rarámuri tradition of long‑distance running, not as sport but as a communal and spiritual practice tied to endurance, reciprocity, and connection to the land — a worldview that has become one of the most widely recognized aspects of their identity."
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mixezoquemap.png/500px-Mixezoquemap.png",
     "imgAlt": "The region where Zoque was spoken",
     "population": "110,000",
-    "description": "a primary branch of the Mixe–Zoquean language family indigenous to southern Mexico by the Zoque people."
+    "description": "Zoque is spoken in the western and northern regions of Chiapas, as well as parts of Oaxaca and Tabasco, where volcanic highlands and river basins shaped the distribution of its communities. It belongs to the Mixe‑Zoque family, a lineage often linked to the ancient Olmec civilization, giving it one of the deepest historical roots in Mesoamerica. A notable cultural detail is that Zoque communities preserved traditions tied to volcanic landscapes, including stories and rituals connected to the 1982 eruption of El Chichón, which remains a powerful marker of identity and collective memory."
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "image": "https://www.familysearch.org/en/wiki/img_auth.php/7/72/Meseta_Comiteca_Tojolabal_Region%2C_Chiapas_State%2C_Mexico_Map.png",
     "imgAlt": "The region where Tojolab'al is being spoken in today",
     "population": "67,000",
-    "description": "a Mayan language spoken in Chiapas, Mexico by the Tojolabal people. Tojol-ab'al is spoken, principally in the departments of the Chiapanecan Colonia of Las Margaritas, by about 70,000 people. It is related to the Chuj language."
+    "description": "Tojolab’al is spoken in the southeastern region of Chiapas, especially around Las Margaritas, Comitán, and the borderlands near Guatemala, and its speakers trace deep historical ties to the Maya world, with some traditions linking their origins to the Cuchumatanes region of Guatemala. It is a Mayan language closely related to Chuj, and its population — roughly 39,000–45,000 speakers in Mexico depending on the source — is entirely concentrated within Mexico, with no significant Guatemalan population. A notable cultural detail is the Tojolabal connection to the ancient site of K’atepan, a mountainside ceremonial plaza that reflects the community’s long-standing architectural and ritual heritage."
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "image": "https://mexico.sil.org/sites/mexico/files/10cmi-chontal-mapa.gif",
     "imgAlt": "Region where Chontal de Tabasco was spoken",
     "population": "60,000",
-    "description": "The Chontal spoken in the state of Tabasco is a Mayan language. "
+    "description": "Chontal de Tabasco is spoken in the **wetlands and river plains of western Tabasco**, especially around Nacajuca and the surrounding Chontalpa region, where waterways and mangrove ecosystems shaped the community’s settlement patterns. It belongs to the **Mayan language family**, but it forms its own distinct branch, separate from the Yucatecan and Ch’olan groups, reflecting an early divergence in the Maya world. A notable cultural detail is that Chontal communities maintained sophisticated **canoe‑based traditions** for travel, fishing, and trade, a legacy of living in one of Mexico’s most water‑rich landscapes."
   },
   {
     "id": 21,
@@ -173,7 +173,7 @@
     "image": "https://mexico.sil.org/sites/mexico/files/01b-amuzga-mapa1_new.gif",
     "imgAlt": "Region where Amuzgo is being spoken",
     "population": "60,000",
-    "description": "Like other Oto-Manguean languages, Amuzgo is a tonal language. From syntactical point of view Amuzgo can be considered as an active language."
+    "description": "Huichol (Wixárika) is spoken in the **Sierra Madre Occidental**, across the mountainous regions of Jalisco, Nayarit, Durango, and Zacatecas, where remote canyons and high plateaus helped the language maintain strong continuity. It belongs to the Uto‑Aztecan family, sharing ancient roots with languages like Nahuatl, yet it developed its own distinct sound system and ceremonial vocabulary tied to pilgrimage routes and sacred geography. A defining cultural detail is the Wixárika tradition of **peyote‑centered ritual journeys** to Wirikuta, a sacred desert site, which preserves one of the most continuous spiritual lineages in Mesoamerica."
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chatino-map-wikipedia.svg/500px-Chatino-map-wikipedia.svg.png",
     "imgAlt": "Region where Chatino was spoken",
     "population": "52,000",
-    "description": "These languages are a branch of the Zapotecan family within the Oto-Manguean language family."
+    "description": "Chatino is spoken in the **southern mountains of Oaxaca**, especially in the Sierra Sur and Costa regions, where steep terrain and isolated valleys led to the development of several highly distinct local varieties. It belongs to the Oto‑Manguean family and is closely related to Zapotec, though Chatino evolved its own complex tonal system that can include up to **14 tones** in some varieties — one of the most intricate in the Americas. A notable cultural detail is the Chatino tradition of **community‑based governance and ritual calendars**, systems that preserve pre‑Hispanic structures of authority and timekeeping that remain active in many towns today."
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "image": "https://images.squarespace-cdn.com/content/v1/64cc9696adbf064fb79201c6/5c720ffb-c13e-4378-8716-30f0295ce035/Durango-8.png",
     "imgAlt": "Region wher Tepehuano del sur is spoken",
     "population": "45,000",
-    "description": "Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers."
+    "description": "Tepehuano del Sur (O’dam) is spoken in the **southern region of Durango**, especially in the Sierra Madre Occidental around Mezquital, where rugged canyons and forested highlands shaped the distribution of its communities. It belongs to the Uto‑Aztecan family, sharing deep roots with languages like Tarahumara and Nahuatl, yet it developed its own distinct sound patterns and ceremonial vocabulary through centuries of relative isolation. Its population is relatively small — about **45,000 speakers** — due to historical displacement, community fragmentation, and long‑term pressure from surrounding Spanish‑speaking settlements. A notable cultural detail is the O’dam tradition of **ritual deer dances**, performances that express their relationship with the natural world through movement, music, and storytelling."
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mayoterritory.jpg/330px-Mayoterritory.jpg",
     "imgAlt": "The region where Mayo is spoken",
     "population": "39,000",
-    "description": "known as Yorem Noki to the Mayo (Yoreme) people, is an Uto-Aztecan language. It is spoken by about 40,000 people, who live in the southern portion of the Mexican state of Sonora and in the north of the neighboring state of Sinaloa."
+    "description": "Mayo (Yoreme) is spoken in the **river valleys and coastal plains of northern Sinaloa and southern Sonora**, where fertile floodplains and seasonal waterways shaped the community’s agricultural and ceremonial life. It belongs to the Uto‑Aztecan family and is closely related to Yaqui, reflecting a shared ancestral branch that later diverged as each group settled different parts of the northwest. Its overall population — about **39,000 speakers**, almost entirely within Mexico — remains relatively small due to centuries of displacement, missionization, and pressure from expanding agricultural frontiers. A defining cultural detail is the Yoreme tradition of **Pascua ceremonial dances**, especially the deer dance, which encodes cosmology, seasonal cycles, and communal identity through movement and music."
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
     "imgAlt": "The region where Popoluca is spoeken",
     "population": "17,000",
-    "description": "Popoloca is an indigenous Mexican cluster of languages of the Popolocan branch of the Oto-Manguean language family, closely related to Mazatec."
+    "description": "Popoloca is spoken in the **southern region of Puebla**, especially around the Tehuacán Valley, where semi‑arid landscapes, ancient irrigation systems, and long‑standing trade routes shaped the development of its communities. It belongs to the **Oto‑Manguean family**, closely related to Mazatec and Chocho, though each Popoloca town preserves its own distinct variety due to centuries of geographic isolation. Its overall population — about **17,000 speakers** — is small because many communities experienced strong pressure from Spanish, migration toward urban centers, and the gradual loss of intergenerational transmission in the 20th century. A notable cultural detail is the Popoloca connection to **prehistoric salt‑production traditions** in the Tehuacán Valley, a practice that links modern communities to some of the earliest agricultural societies in Mesoamerica."
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cora_language.png",
     "imgAlt": "A map of a cluster of other languages, with Cora also being included in the middle of the cluster",
     "population": "33,000",
-    "description": "It is spoken by the ethnic group that is widely known as the Cora, but who refer to themselves as Naáyarite. The Cora inhabit the northern sierra of the Mexican state Nayarit which is named after its indigenous inhabitants."
+    "description": "Cora (Naayeri / Náayeri) is spoken in the **Sierra del Nayar**, across the rugged mountains of northern Nayarit and parts of Durango and Jalisco, where deep canyons and remote highlands helped preserve strong cultural and linguistic continuity. It belongs to the **Uto‑Aztecan family**, closely related to Huichol, though each developed its own ceremonial vocabulary, musical traditions, and ritual calendar over centuries of separation. Its overall population — about **33,000 speakers** — remains relatively small due to historical isolation, pressure from surrounding Spanish‑speaking towns, and the long‑term effects of colonial campaigns in the Nayar region. A defining cultural detail is the Cora tradition of **el mitote**, a complex ceremonial cycle involving music, dance, and offerings that reflects one of the most continuous ritual systems in northern Mesoamerica."
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Triqui_map.svg/500px-Triqui_map.svg.png",
     "imgAlt": "A region where Trique is spoken in today",
     "population": "30,000",
-    "description": "a family of Oto-Manguean spoken by 30,000 Trique people of the Mexican states of Oaxaca and the state of Baja California"
+    "description": "Trique is spoken in the **western mountains of Oaxaca**, especially in the regions of San Juan Copala, San Andrés Chicahuaxtla, and San Martín Itunyoso, where steep canyons and rugged terrain shaped the development of three highly distinct local varieties. It belongs to the **Oto‑Manguean family**, closely related to Mixtec, though Trique evolved its own famously complex tonal system that can include **up to nine tones**, giving the language a striking musical contour. Its overall population — about **30,000 speakers** — remains relatively small due to historical displacement, political conflict in the Copala region, and long‑term migration toward urban centers. A defining cultural detail is the Trique tradition of **intricate woven textiles**, especially red huipiles whose geometric patterns carry deep symbolic meaning tied to lineage, territory, and community identity."
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Yaqui_location.svg/960px-Yaqui_location.svg.png",
     "imgAlt": "The region where Yaqui is being spoken today",
     "population": "16,000",
-    "description": "primary homelands are in Río Yaqui valley in the northwestern Mexican state of Sonora. Today, there are eight Yaqui Pueblos in Sonora."
+    "description": "Yaqui (Yoeme) is spoken in the **river valleys and coastal plains of southern Sonora**, especially along the Río Yaqui, where fertile floodplains and desert‑edge ecosystems shaped the community’s settlement patterns and ceremonial life. It belongs to the **Uto‑Aztecan family**, closely related to Mayo, though each group developed its own distinct ritual systems, oral traditions, and political history. Its overall population — about **16,000 speakers**, almost entirely within Mexico — is relatively small due to centuries of displacement, forced relocations during the Porfiriato, and long‑term pressure from surrounding Spanish‑speaking regions. A defining cultural detail is the Yaqui tradition of **Pascua ceremonial dances**, including the deer dance and the matachines, which form the heart of their ritual calendar and express deep connections to land, ancestors, and seasonal cycles."
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Huavetowns.png/500px-Huavetowns.png",
     "imgAlt": "Region where Huave is being spoken",
     "population": "20,000",
-    "description": "The language is spoken in four villages on the Isthmus of Tehuantepec, in the southeast of the state"
+    "description": "Huave (Ombeayiiüts / Umbeyajts depending on the town) is spoken in the **Isthmus of Tehuantepec**, especially in the coastal communities of San Mateo del Mar, San Dionisio del Mar, Santa María del Mar, and San Francisco del Mar, where lagoons, sandbars, and strong Pacific winds shaped a maritime‑centered way of life. It is a **language isolate**, unrelated to any other known family in Mesoamerica, which makes it one of the region’s most linguistically distinctive traditions. Its overall population — about **20,000 speakers** — is relatively small due to historical coastal displacement, inter‑community conflict, and long‑term pressure from Spanish in nearby urban centers. A defining cultural detail is the Huave mastery of **lagoon‑based fishing and wind‑powered sailing**, traditions that reflect centuries of intimate knowledge of the sea and the shifting waters of the Isthmus."
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "image": "https://mexico.sil.org/sites/mexico/files/10hmi-popoloca-mapa.gif",
     "imgAlt": "Region where Popoluca was spoken, its not as well known as Popoloca",
     "population": "30,000",
-    "description": "Sierra Popoluca (poi) and Texistepec Popoluca (poq) are Zoquean; that is, they are more closely related to the Zoque languages of Chiapas, Oaxaca and Tabasco than to the nearby Sayula and Oluta Popoluca languages."
+    "description": "Popoluca refers to several closely related Mixe‑Zoquean languages spoken in the **southern region of Veracruz**, especially around the Sierra de Santa Marta and the lowland areas near Soteapan, Mecayapan, and Hueyapan de Ocampo. These languages descend from the ancient Zoquean branch, which once stretched across a much larger area of Mesoamerica, leaving deep linguistic traces in early Gulf Coast civilizations. Its overall population — about **30,000 speakers** across the different Popoluca varieties — remains relatively small due to historical displacement, pressure from Spanish in surrounding towns, and the fragmentation of communities across rugged terrain. A defining cultural detail is the Popoluca tradition of **forest‑based healing and herbal knowledge**, practices tied to the biodiversity of the Sierra de Santa Marta and passed down through specialized community healers.\n"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cuicatec_map.svg/500px-Cuicatec_map.svg.png",
     "imgAlt": "Region where Cuicatec is spoken",
     "population": "13,000",
-    "description": "The Ethnologue lists two major dialects of Cuicatec: Tepeuxila Cuicatec and Teutila Cuicatec."
+    "description": "Cuicatec is spoken in the **northern highlands of Oaxaca**, especially around Teutila, Tepeuxila, and the canyons of the Cañada region, where steep ridges and deep valleys shaped the isolation of its communities. It belongs to the **Oto‑Manguean family**, closely related to Mixtec and Trique, yet it developed its own distinct tonal patterns and ceremonial vocabulary tied to local mountain deities and agricultural cycles. Its overall population — about **13,000 speakers** — is small due to long‑term migration, pressure from Spanish in nearby towns, and the fragmentation of communities across rugged terrain. A defining cultural detail is the Cuicatec tradition of **rain‑calling rituals**, ceremonies that reflect an ancient relationship with the dramatic cloud formations and seasonal storms of the Cañada."
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Otomanguean_Languages.png/500px-Otomanguean_Languages.png",
     "imgAlt": "region where the Pame langagues are still being spoken to today",
     "population": "12,000",
-    "description": "The Pame languages are a group of languages in Mexico that is spoken by around 12,000 Pame people in the state of San Luis Potosí. It belongs to the Oto-Pamean branch of the Oto-Manguean language family."
+    "description": "Pame is spoken in the **mountainous region of the Sierra Gorda**, mainly in northern Querétaro and parts of San Luis Potosí, where steep canyons, oak forests, and scattered highland settlements shaped the isolation of its communities. It belongs to the **Oto‑Manguean family**, forming its own distinct branch with three closely related varieties that diverged as groups settled different ridges and valleys. Its overall population — about **12,000 speakers** — is small due to long‑term migration, pressure from Spanish in nearby towns, and the fragmentation of communities across difficult terrain. A defining cultural detail is the Pame tradition of **ritual music using three‑stringed fiddles and handmade drums**, performances tied to agricultural cycles and the spiritual landscape of the Sierra Gorda."
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "image": "https://www.muturzikin.com/cartesamerique/imagesamerique/2.png",
     "imgAlt": "On number 4 of the map, you will see the Mam language",
     "population": "500,000",
-    "description": "spoken by around half a million people in Guatemala and Mexico."
+    "description": "Mam is spoken across the **western highlands of Mesoamerica**, with its heartland in **Guatemala** — especially in San Marcos, Huehuetenango, and Quetzaltenango — where steep volcanic ridges and deep valleys support large, continuous Mam‑speaking communities. Although it extends into Chiapas, the Mexican population is very small compared to Guatemala because only a few Mam communities historically crossed into what is now Mexico, and later migration patterns pulled people toward Guatemalan highland towns rather than northward. Its overall population — roughly **500,000 speakers**, overwhelmingly in Guatemala — reflects its strength as one of the largest and most vibrant Mayan languages. A defining cultural detail is the Mam tradition of **mountain‑top ceremonial altars**, where offerings of candles, copal, and maize maintain a living relationship with ancestors and the sacred landscape of the highlands."
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "image": "https://d309zx38sewmgu.cloudfront.net/2020/03/mapa-qanjobal.jpg",
     "imgAlt": "The region of Q'anjob'al is spoken",
     "population": "180,000",
-    "description": " a Mayan language from the Q'anjobalan branch spoken primarily in Guatemala and part of Mexico."
+    "description": "Q’anjob’al is spoken across the **northwestern highlands of Guatemala**, especially in Huehuetenango around Santa Eulalia, San Juan Ixcoy, and San Pedro Soloma, where steep mountains and cloud‑forest valleys support large, continuous Indigenous communities. Although it extends into Chiapas, the Mexican population is small because only a few Q’anjob’al‑speaking towns historically crossed the border, and later migration patterns remained centered in Guatemalan highland regions. Its overall population — about **180,000 speakers**, overwhelmingly in Guatemala — reflects its strength as one of the more robust Mayan languages still transmitted to children. A defining cultural detail is the Q’anjob’al tradition of **communal ceremonial houses (k’anjobal b’ey)**, where ritual specialists maintain altars, candles, and offerings that anchor community identity and connect people to ancestral mountain spirits."
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "image": "https://images.squarespace-cdn.com/content/v1/64cc9696adbf064fb79201c6/5c720ffb-c13e-4378-8716-30f0295ce035/Durango-8.png",
     "imgAlt": "Region where Tepehuano del Norte is spoken",
     "population": "10,000",
-    "description": "Tepehuán (Tepehuano) is the name of three closely related languages of the Piman branch of the Uto-Aztecan language family, all spoken in northern Mexico. The language is called O'otham by its speakers."
+    "description": "Tepehuano del Norte (O’dam / Audam) is spoken in the **northern mountains of Durango**, especially around El Mezquital, Guanaceví, and the high ridges of the Sierra Madre Occidental, where scattered settlements and rugged terrain shaped the isolation of its communities. It belongs to the **Uto‑Aztecan family**, closely related to Tepehuano del Sur and other northern Uto‑Aztecan languages, yet it remained much smaller than its relatives because northern O’dam communities were historically more fragmented, more frequently displaced, and less able to maintain large, continuous populations across the mountains. Its overall population — about **10,000 speakers** — reflects this long‑term fragmentation and pressure from nearby Spanish‑speaking mining towns. A defining cultural detail is the O’dam tradition of **ceremonial curing rituals**, where music, prayer, and plant knowledge restore balance between people, ancestors, and the mountain landscape.\n"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tepehua_location_map.svg/500px-Tepehua_location_map.svg.png",
     "imgAlt": "region where Tepehua is spoken",
     "population": "16,051",
-    "description": "They speak Tepehua languages, which belong to the Totonacan language family."
+    "description": "Tepehua is spoken in the **eastern highlands of Mexico**, mainly in the border region of Veracruz, Hidalgo, and Puebla, where misty mountains, cloud forests, and scattered rural settlements shaped the development of its three distinct varieties. It belongs to the **Totonacan family**, closely related to Totonac, though Tepehua communities remained smaller and more dispersed, which limited the language’s ability to maintain large, continuous populations. Its overall population — about **16,000 speakers** — reflects this long‑term fragmentation and the steady pressure from Spanish in nearby towns and schools. A defining cultural detail is the Tepehua tradition of **ritual healing and midwifery**, practices rooted in deep botanical knowledge of the cloud‑forest environment and passed down through specialized community elders."
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "image": "https://mexico.sil.org/sites/mexico/files/10cmi-chontal-mapa.gif",
     "imgAlt": "region where Chontal de Oaxaca is spoken",
     "population": "45,000",
-    "description": "The Chontal spoken in the state of Oaxaca, and usually referred to as Oaxaca Chontal, is a language family that has not been shown to be related to any other"
+    "description": "Chontal de Oaxaca (also called Tequistlatec) is spoken in the **southern coastal and foothill regions of Oaxaca**, especially around the districts of Tehuantepec and Yautepec, where dry forests, river valleys, and rugged hills shaped the distribution of its communities. It forms its own small branch of the **Tequistlatecan family**, unrelated to the better‑known Oto‑Manguean or Mayan groups, and each town preserves distinct speech varieties shaped by long periods of geographic separation. Its overall population — about **45,000 speakers** — remains modest because Chontal communities have historically been small, dispersed, and surrounded by dominant Spanish‑speaking towns along the Isthmus trade routes. A defining cultural detail is the Chontal tradition of **rain‑calling and agricultural ceremonies**, rituals tied to the rhythms of the coastal dry season and the ancestral relationship between people, land, and seasonal water."
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mixezoquemap.png/500px-Mixezoquemap.png",
     "imgAlt": "Map where multiple sub languages are spoken, with Sayultec being one of the sub languages.",
     "population": "4,800",
-    "description": "is a Mixean language spoken by around 5,000 indigenous people in and around the town of Sayula de Alemán in the southern part of the state of Veracruz, Mexico."
+    "description": "Sayultec (also called Sayula Popoluca) is spoken in the **Sierra de Santa Marta** region of southern Veracruz, where small, scattered communities maintain the language amid dense tropical forests and rugged hills. It belongs to the **Mixe‑Zoquean family**, sharing deep ancestral roots with Zoque and Mixe, yet it developed its own distinct sound patterns and vocabulary through long periods of isolation. With only about **4,800 speakers**, Sayultec is at a critical stage, and preserving it matters because it carries unique ecological knowledge, oral history, and a worldview found nowhere else in Mesoamerica."
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "image": "https://www.muturzikin.com/cartesamerique/imagesamerique/2.png",
     "imgAlt": "regions of indigenous languages being spoken in both Guatemala and also Mexico. Chuj is number one of the map.",
     "population": "59,000",
-    "description": "a Mayan language spoken by around 40,000 members of the Chuj people in Guatemala and around 3,000 members in Mexico."
+    "description": "Chuj is spoken in the **northwestern highlands of Guatemala**, especially in Huehuetenango around San Mateo Ixtatán and San Sebastián Coatán, where steep mountains and pine‑forest plateaus support long‑standing Indigenous communities. It also extends into Chiapas, but the Mexican population is small because only a few Chuj‑speaking towns historically crossed the border, and later migration remained centered in Guatemalan highland regions. Its overall population — about **59,000 speakers** — makes it one of the stronger Mayan languages still transmitted across generations. A defining cultural detail is the Chuj tradition of **mountain‑based ceremonial altars**, where offerings of candles, pine resin, and maize maintain a living relationship with ancestors and the surrounding landscape."
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Huehuetenango_in_Guatemala.svg",
     "imgAlt": "Region where Akateko is mainly spoken",
     "population": "67,900",
-    "description": "Akatek is a Mayan language spoken by the Akateko people primarily in the Huehuetenango Department, Guatemala in and around the municipalities of Concepción Huista, Nentón, San Miguel Acatán, San Rafael La Independencia and San Sebastián Coatán. A number of speakers also live in Chiapas, Mexico."
+    "description": "Akateko is spoken in the **northwestern highlands of Guatemala**, especially in Huehuetenango around San Miguel Acatán and San Rafael La Independencia, where steep ridges and cloud‑forest valleys support long‑standing Indigenous communities. It also extends into Chiapas, but the Mexican population is small because only a few Akateko‑speaking towns historically crossed the border, and later migration remained centered in Guatemalan highland regions. Its overall population — about **67,900 speakers** — makes it one of the stronger Mayan languages still actively transmitted to children. A defining cultural detail is the Akateko tradition of **ceremonial processions and mountain offerings**, where candles, flowers, and prayers maintain a living relationship with ancestral spirits and the surrounding landscape."
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "image": "https://mexico.sil.org/sites/mexico/files/10bmi-chichimeca-mapa.gif",
     "imgAlt": "Shared map of both Chichimeca Jonaz and Chichimeca Pame.",
     "population": "2,400 ",
-    "description": "Chichimeca or Chichimeca Jonaz is an indigenous language of Mexico spoken by around 200 Chichimeca Jonaz people in Misión de Chichimecas near San Luis de la Paz in the state of Guanajuato."
+    "description": "Chichimeca Jonaz is spoken in the **northern highlands of Guanajuato**, especially around the community of San Luis de la Paz, where a small and tightly knit population has maintained the language despite centuries of pressure from surrounding Spanish‑speaking regions. It belongs to the **Oto‑Manguean family**, forming its own distinct branch with no close surviving relatives. With only about **2,400 speakers**, preserving Chichimeca Jonaz is vital because it carries an irreplaceable worldview, a unique linguistic structure, and the last living voice of a once‑wide network of Chichimeca peoples whose histories would otherwise fade from the cultural landscape."
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Matlatzinca_languages.png/500px-Matlatzinca_languages.png",
     "imgAlt": "Region where Ocuilteco is spoken",
     "population": "2,238",
-    "description": "Ocuiltec is spoken primarily in the municipality of Ocuilan in the villages Cinco Caminos, Colonia Doctor Gustavo Baz, El Capulín, El Totoc (San José Totoc), Lomas de Teocaltzingo (Loma de Tecalzingo), Ocuilán de Artéaga, San Juan Atzingo, Santa Lucía, Santa Martha, and Santa María Nativitas. It may have been spoken in the adjacent area of Morelos, though Matlatzinca could have also existed in it."
+    "description": "Ocuilteco (Tlahuica) is spoken in the **central highlands of the State of Mexico**, especially around Ocuilan and the forested slopes of the Sierra de las Cruces, where a small and tightly connected community has maintained the language across generations. It belongs to the **Oto‑Manguean family**, forming its own distinct branch with no close surviving relatives. With only **2,238 speakers**, preserving Ocuilteco matters because it represents a unique linguistic lineage found nowhere else in Mexico and carries the last living expression of a cultural tradition deeply tied to the mountains and forests of this region."
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "image": "https://dnet8ble6lm7w.cloudfront.net/maps_lg/MEX/MEX0057.png",
     "imgAlt": "Region where Guarijío is being spoken",
     "population": "2,201",
-    "description": "The Guarijío language group belongs to the Uto-Aztecan family; genetically, Guarijío is very closely related to Tarahumara. Guarijío is spoken in the states of Chihuahua and Sonora."
+    "description": "Guarijío (Warihó) is spoken in the **mountainous border region of Sonora and Chihuahua**, especially along the deep canyons and pine‑oak forests of the Sierra Madre Occidental, where small, dispersed communities have maintained the language despite long‑term pressure from surrounding Spanish‑speaking towns. It belongs to the **Uto‑Aztecan family**, forming a distinct branch alongside Tarahumara and other northern languages. With only **2,201 speakers**, Guarijío is at a fragile point, and preserving it matters because it carries a unique linguistic lineage, place‑based ecological knowledge, and the living memory of a people whose voice would otherwise fade from the cultural landscape of northern Mexico."
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/48-qeqchi-maya-q-eqchi.jpg",
     "imgAlt": "Region of Q'eqchí is being spoeken today",
     "population": "1,279",
-    "description": "Q'eqchi ' is a Mayan language and the only K'ichean language spoken in Mexico. "
+    "description": "Q’eqchí is spoken across the **central and eastern highlands of Guatemala**, especially in Alta Verapaz and Izabal, where dense cloud forests, river valleys, and dispersed rural communities have supported one of the most geographically widespread Mayan languages. Although Q’eqchí has a large overall population in Guatemala, the **specific figure of 1,279 speakers in Mexico** reflects a very small, isolated cross‑border presence. That number is so precise because researchers can track nearly every individual community member, and it signals a fragile situation where intergenerational transmission is limited. Preserving this small Mexican branch of Q’eqchí matters because it carries a distinct local history, unique adaptations of the language, and the cultural memory of a community whose voice could easily disappear without active support."
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/31-matlatzinca-oto-mangue-matlatzinca1.jpg",
     "imgAlt": "Region where Matlatzinca is being spoken",
     "population": "1,200",
-    "description": "is an endangered Oto-Manguean language of Western Central Mexico."
+    "description": "Matlatzinca is spoken in the **central highlands of the State of Mexico**, especially around San Francisco Oxtotilpan in the forested slopes of the Nevado de Toluca region, where a single small community maintains the language. It belongs to the **Oto‑Manguean family**, forming its own distinct branch with no close surviving relatives. With only **1,200 speakers**, and with such a precise count reflecting close monitoring of a very small population, preserving Matlatzinca is essential because it represents a unique linguistic lineage, a rare worldview tied to the highland forests, and one of the last living voices of a cultural tradition that could disappear without active support."
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/44-pima-yuto-hahua-pima1.jpg",
     "imgAlt": "Region where Pima Bajo is being spoken",
     "population": 740,
-    "description": "a Mexican indigenous language of the Piman branch of the Uto-Aztecan language family, spoken by around 1,000 speakers in northern Mexico."
+    "description": "Pima Bajo is spoken in the **mountainous border region of Sonora and Chihuahua**, especially in small, scattered communities along the upper Río Yaqui basin, where isolation and long‑term pressure from surrounding Spanish‑speaking towns have sharply reduced the number of fluent speakers. It belongs to the **Uto‑Aztecan family**, closely related to O’odham and other northern languages, but its communities have faced sustained displacement, migration to urban centers, and a steep decline in intergenerational transmission. With only **740 speakers**, a number small enough to be tracked almost individually, preserving Pima Bajo is essential because it carries a unique linguistic lineage, place‑based ecological knowledge, and the living memory of a people whose voice could disappear without active support."
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "image": "https://d309zx38sewmgu.cloudfront.net/2022/02/45-popoloca-oto-mangue-mexico.jpg",
     "imgAlt": "The gernal region of where Ngiwa is being spoeken",
     "population": "Approximately 18,935",
-    "description": "Ngiba (Popoloca) language, its four dialectal variants are included in UNESCO's Atlas of the World's Languages \u200B\u200Bin Danger , and two are listed by INALI (the National Institute of Indigenous Languages) as being at high risk of extinction."
+    "description": "Ngiba/Ngiwa (also called Ngigua or Chocholteco) is spoken in the **southern Puebla and northern Oaxaca** region, where communities are spread across highland valleys and rugged foothills that shaped distinct local varieties over time. It belongs to the **Oto‑Manguean family**, forming part of the Popolocan branch alongside Mazatec and Chocho. Its overall population — **approximately 18,935 speakers** — is divided between several closely related varieties, which makes the language appear smaller than some of its relatives because each community maintains its own speech form rather than a single unified variety. A defining cultural detail is the tradition of **mountain offerings and ceremonial processions**, where candles, flowers, and prayers maintain a living relationship with ancestral spirits and the surrounding landscape."
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/29-lacandon-maya-lacandon1.jpg",
     "imgAlt": "Region where Lacandón is being spoken in",
     "population": "1,000",
-    "description": "also known as Jach-t'aan, is considered to be at medium risk of extinction. The language most closely related to Jach-t'aan is Yucatec Maya, or Maayat'aan ."
+    "description": "Lacandón is spoken in the **deep rainforest of eastern Chiapas**, especially around the communities of Lacanjá, Najá, and Metzabok, where small, isolated settlements have preserved the language in close relationship with the surrounding jungle. It belongs to the **Mayan family**, forming its own distinct branch with no close surviving relatives. With **exactly 1,000 speakers**, a number precise enough to reflect close monitoring of a very small population, preserving Lacandón is essential because it represents a unique linguistic lineage, a rare rainforest‑based worldview, and one of the last living voices of a cultural tradition deeply tied to the Lacandon Jungle."
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "image": "http://atlas.inpi.gob.mx/wp-content/uploads/51-seri-seri.jpg",
     "imgAlt": "Region where Seri is being spoken",
     "population": 720,
-    "description": "There have been attempts to relate Seri to other languages \u200B\u200Band include it in an established family, but current linguistic evidence shows that Seri does not share characteristics that would place it in any family. Consequently, Seri can be considered a language isolate"
+    "description": "Seri (Comcaac) is spoken along the **coastal desert of Sonora**, especially in the communities of Punta Chueca and Desemboque, where a small, tightly connected population maintains the language in close relationship with the Gulf of California. It is not closely related to any other language in the world, forming its own **isolated linguistic family** with structures and vocabulary found nowhere else. With only **720 speakers**, a number small enough to be tracked almost individually, preserving Seri is essential because it represents an irreplaceable linguistic lineage, deep ecological knowledge of the desert‑sea environment, and the living voice of a people whose cultural memory would be lost without active support."
   },
   {
     "id": 51,
