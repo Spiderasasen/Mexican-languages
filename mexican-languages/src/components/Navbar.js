@@ -5,6 +5,7 @@ function Navbar() {
         <nav>
             <Link to="/">Home</Link>
             <Link to="/living">Living Languages</Link>
+            <Link to="/extinct-languages">Extinct Languages</Link>
         </nav>
     );
 }

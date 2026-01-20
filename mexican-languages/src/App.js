@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import Navbar from "./components/Navbar";
 import LivingLanguages from "./pages/LivingLanguages";
 import LanguageDetail from "./pages/LanguageDetail";
+import ExtinctLanguages from "./pages/ExtinctLanguages";
+import ExtinctDetail from "./pages/ExtinctDetail";
 
 function App() {
     return (
@@ -13,6 +15,8 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path='/living' element={<LivingLanguages />} />
                 <Route path="/living/:id" element={<LanguageDetail />} />
+                <Route path="/extinct-languages" element={<ExtinctLanguages />} />
+                <Route path="/extinct-languages/:id" element={<ExtinctDetail />} />
             </Routes>
         </Router>
     );
