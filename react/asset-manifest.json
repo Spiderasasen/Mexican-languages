@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mexican-languages/react/static/css/main.d0a72616.css",
+    "main.js": "/Mexican-languages/react/static/js/main.75f647e1.js",
+    "index.html": "/Mexican-languages/react/index.html",
+    "main.d0a72616.css.map": "/Mexican-languages/react/static/css/main.d0a72616.css.map",
+    "main.75f647e1.js.map": "/Mexican-languages/react/static/js/main.75f647e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0a72616.css",
+    "static/js/main.75f647e1.js"
+  ]
+}
