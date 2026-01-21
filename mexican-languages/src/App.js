@@ -9,7 +9,7 @@ import ExtinctDetail from "./pages/ExtinctDetail";
 
 function App() {
     return (
-        <Router>
+        <Router basename="/Mexican-languages">
             <Navbar />
             <Routes>
                 <Route path="/" element={<Home />} />
