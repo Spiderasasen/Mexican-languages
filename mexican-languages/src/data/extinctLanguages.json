@@ -46,118 +46,118 @@
     "name": "Tecuexe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tecuexe_Masks.JPG/500px-Tecuexe_Masks.JPG",
     "imgAlt": "Tecuexe Masks from a museum in Zacatecas, Mexico near la Quemada.",
-    "description": ""
+    "description": "The Tecuexe language of Jalisco and Los Altos vanished after intense colonial pressure and population decline. Only a few place names remain, leaving no usable linguistic record for revival."
   },
   {
     "id": 8,
     "name": "Manso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nuestra_Senora_de_Guadalupe_de_los_Manso.jpg/500px-Nuestra_Senora_de_Guadalupe_de_los_Manso.jpg",
     "imgAlt": "The Mission to the Manso was established by Spanish missionaries in 1659. The mission built by the Manso still exists and is located in downtown Ciudad Juarez, Mexico.",
-    "description": "Only a few words of their language were recorded, such as arre 'yes' (cf. Yaqui alla and Opata ore) and ocae 'arrow'."
+    "description": "The Manso people lived around present‑day El Paso and northern Chihuahua. Missionization and intermarriage led to the loss of their language by the early 1800s. No vocabulary was recorded."
   },
   {
     "id": 9,
     "name": "Cuitlatec",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdsY-PsSmssvrotX6dhH6zhFBcoZqyH0-nog&s",
     "imgAlt": "Image of the last Cuitlateco Speakers",
-    "description": "Cuitlatec, or Cuitlateco, is an extinct language isolate of Mexico, formerly spoken by an indigenous people known as Cuitlatec."
+    "description": "Cuitlatec was spoken in Guerrero and is one of Mexico’s most mysterious languages. The last speaker died in the 1960s. Only a small vocabulary and grammar sketch survive, not enough for revival."
   },
   {
     "id": 10,
     "name": "Tepuztec",
     "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FziFr.img?w=768&h=768&m=6",
     "imgAlt": "Image of what looks like pottery from the Tepuztec",
-    "description": "The name Tepuztec derives from the Nahuatl word tepoztli, meaning \"copper\" or \"workable metal\". The Tepuztec language is extinct and unclassified, no document describing it having been found. Donald Brand speculated that it was related to Cuitlatec given that both peoples originated on the Costa Grande."
+    "description": "Tepuztec, spoken in Michoacán, disappeared early in the colonial period. It is known only from brief missionary notes, and its classification is uncertain. No revival is possible"
   },
   {
     "id": 11,
     "name": "Cuyuteco",
     "image": "https://images.squarespace-cdn.com/content/v1/64cc9696adbf064fb79201c6/c19b2c95-e34c-4a0a-b7bc-e930cde95adb/Map+4.jpg?format=2500w",
     "imgAlt": "All towns that belonged to the Cututeco people are in clear Circles",
-    "description": "The Cuyuteco people, also known as Cuyuteca, was a tribe of the Nahua culture, that lived primarily in the Pre-Columbian Mixtlán region of Xalisco, in the present day state of Jalisco in western central Mexico and along the Colima coastline."
+    "description": "Cuyuteco was spoken in Colima and Jalisco. It declined rapidly after Spanish conquest and assimilation policies. Only a few words survive, leaving the language effectively unreconstructable."
   },
   {
     "id": 12,
     "name": "Totorame",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sinaloa_prehisp%C3%A1nica.jpg",
     "imgAlt": "Map of a bunch of tribs on the west coast of Mexico, where Totorame's trib is located at the very bottom of the image",
-    "description": "The Totorame were a pre-Columbian indigenous people who inhabited the valley and coast from the Piaxtla River to the Cañas River, in what are now the municipalities of San Ignacio , Mazatlán , Concordia , Rosario , and Escuinapa in Sinaloa , extending to the Santiago River in the present-day state of Nayarit ."
+    "description": "The Totorame language of Nayarit and Sinaloa vanished in the 1700s after epidemics and mission life disrupted their communities. Documentation is minimal, preventing revival."
   },
   {
     "id": 13,
     "name": "Xochimilco",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lake_Texcoco_c_1519.png/500px-Lake_Texcoco_c_1519.png",
     "imgAlt": "Map of other tribs that could have spoken the original language of Nahuatl",
-    "description": "Xochimilco was the most important city of the Xochimilca people, one of the Nahua tribes that migrated to the Mesoamerica region. At the same time it was the name of the altepetl of this group and historically referred to both interchangebly."
+    "description": "Xochimilco was a Nahuatl‑related language spoken in the Valley of Mexico. It faded as Classical Nahuatl and Spanish replaced local varieties. Some vocabulary survives, but the distinct dialect is extinct."
   },
   {
     "id": 14,
     "name": "Cholulteca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG/500px-Gran_Pir%C3%A1mide_de_Cholula%2C_Puebla%2C_M%C3%A9xico%2C_2013-10-12%2C_DD_10.JPG",
     "imgAlt": "Pyramid of the Cholulteac people",
-    "description": "The massacre of Cholula"
+    "description": "Cholulteca was the local language of Cholula before Nahuatl dominance. It disappeared early in the colonial era, and almost nothing was recorded. Its family affiliation remains unknown."
   },
   {
     "id": 15,
     "name": "Pochutec",
     "image": "https://figures.semanticscholar.org/021c3753f31be5e6c60e6e76f120fe06e2b85141/7-Figure4-1.png",
     "imgAlt": "Image of where Pochutec was spoken",
-    "description": "Pochutec is an extinct Uto-Aztecan language of the Nahuan (or Aztecan) branch which was spoken in and around the town of Pochutla on the Pacific coast of Oaxaca, Mexico."
+    "description": "Pochutec was a divergent branch of the Uto‑Aztecan family spoken in Oaxaca. It went extinct in the early 20th century. A small corpus exists, but not enough for full revival."
   },
   {
     "id": 16,
     "name": "Ch'olti’",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Palenque_glyphs-edit1.jpg/500px-Palenque_glyphs-edit1.jpg",
     "imgAlt": "Portion of a Mayan hieroglyphic text in Palenque",
-    "description": "Chʼoltiʼ is a dead language belonging to the Ch’olan branch of the Mayan family of languages."
+    "description": "Ch’olti’ was a colonial-era Mayan language spoken in Guatemala and Chiapas. It disappeared in the 18th century as communities shifted to other Mayan languages. Because it was documented by missionaries, scholars can partially reconstruct it, but full revival is unlikely."
   },
   {
     "id": 17,
     "name": "Pericú",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pericu_map.png",
     "imgAlt": "Map where the Pericú people used to live",
-    "description": "The Pericú language is extinct and unattested. Evidence concerning the language spoken by the Pericú is limited to a handful of words plus fewer than a dozen place names."
+    "description": "Pericú was spoken at the southern tip of Baja California. Epidemics and missionization caused its collapse by the late 1700s. Only a few word lists survive, making revival impossible."
   },
   {
     "id": 18,
     "name": "Guaycura",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Guaycuras.png",
     "imgAlt": "Map of where the Guaycura used to live",
-    "description": "The Guaycura language is attested by a few texts, but the evidence is not enough to classify it. It is not closely related to other known languages. Several businesses in Baja California Sur preserve the name of the Guaycura"
+    "description": "Guaycura, spoken in central Baja California Sur, went extinct in the 19th century. It is poorly documented and unrelated to nearby languages. No revival is possible."
   },
   {
     "id": 19,
     "name": "Lost language of Teotihuacan",
     "image": "https://substackcdn.com/image/fetch/$s_!EVb8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67535db1-eab3-47f6-ac89-5ad5f62e5253_1280x698.jpeg",
     "imgAlt": "An image of Teotihuacan",
-    "description": "While time has claimed much of the city, Teotihuacan’s colorful wall murals have endured. For decades, researchers have debated whether the artwork is only illustrative, or if they are linguistic representations. However, according to this new study, both answers are correct."
+    "description": "The language of Teotihuacan remains unidentified. It may have been Totonacan, Mixe‑Zoquean, or something entirely unknown. Because no inscriptions survive, the language cannot be reconstructed."
   },
   {
     "id": 20,
     "name": "Olmec",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Formative_Era_sites.svg/500px-Formative_Era_sites.svg.png",
     "imgAlt": "Area where the Olmec used to live",
-    "description": "While the actual ethno-linguistic affiliation of the Olmec remains unknown, various hypotheses have been put forward. For example, in 1968 Michael D. Coe speculated that the Olmec were Maya predecessors."
+    "description": "The Olmec likely spoke an early Mixe‑Zoquean language. It disappeared thousands of years ago as cultures shifted and diversified. Only reconstructed proto‑forms exist, not enough for revival."
   },
   {
     "id": 21,
     "name": "Chicomuceltec",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/UsumacintaYaxchilan16.JPG/500px-UsumacintaYaxchilan16.JPG",
     "imgAlt": "Image of Chapas Mexico, the area where Chicomuceltec was spoken",
-    "description": "Chicomuceltec (also Chikomuselteko or Chicomucelteco; archaically, Cotoque) is a Mayan language formerly spoken in the region defined by the municipios of Chicomuselo, Mazapa de Madero, and Amatenango de la Frontera in Chiapas, Mexico, as well as some nearby areas of Guatemala. By the 1970s–80s it had become extinct, with recent reports in Mayanist literature finding that there are no living native speakers."
+    "description": "Chicomuceltec was a Mayan language spoken in Chiapas and Guatemala. It went extinct in the 18th century. A small vocabulary survives, but not enough for revival."
   },
   {
     "id": 22,
     "name": "Garza",
     "image": "https://i0.wp.com/ictnews.org/wp-content/uploads/2020/08/miakan-garza-band-dr-mario-garza-oct-19-2019.jpg?resize=780%2C520&quality=89&ssl=1",
     "imgAlt": "Present Day Grazan Tribe Leader",
-    "description": "Garza, also called Meakán, is an extinct Comecrudan language of Texas and Mexico."
+    "description": "Garza was spoken in northeastern Mexico and southern Texas. It vanished in the 18th century after missionization and displacement. Only a handful of words were recorded."
   },
   {
     "id": 23,
     "name": "Comecrudo",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Miterio_ipeki%C3%B3t_Reynosa_vautis%C3%A1ra.png/1280px-Miterio_ipeki%C3%B3t_Reynosa_vautis%C3%A1ra.png",
     "imgAlt": "Some words in Comecrudo",
-    "description": "Comecrudo, also Yué, is an extinct Comecrudan language of Mexico."
+    "description": "Comecrudo was spoken along the lower Rio Grande by the Comecrudo people. It declined in the 1800s due to disease, displacement, and assimilation. A modest vocabulary survives, but not enough for full reconstruction."
   }
 ]
