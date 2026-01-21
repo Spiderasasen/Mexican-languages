@@ -4,49 +4,49 @@
     "name": "Coahuilteco",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Wohngebiet_Coahuiltec.png/500px-Wohngebiet_Coahuiltec.png",
     "imgAlt": "A General region of where the Coahuilteco Tribe existed and spread there language",
-    "description": "Coahuiltecan was a proposed language family in John Wesley Powell's 1891 classification of Native American languages."
+    "description": "Coahuilteco was spoken across southern Texas and northeastern Coahuila by small, mobile hunter‑gatherer groups. It went extinct in the 19th century after missionization, disease, and forced assimilation fragmented its communities. The language is poorly documented, and its classification remains uncertain, making revival impossible today."
   },
   {
     "id": 2,
     "name": "Toboso",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tobosos.jpg",
     "imgAlt": "Image of the Toboso people.",
-    "description": "In the seventeenth century the Toboso Indians occupied the Bolsón de Mapimí of Coahuila and Chihuahua, and in the following century they frequently raided Spanish settlements to the east in Nuevo León. It is likely that they sometimes crossed the Rio Grande, but records of Tobosos in Texas are rare. However, a few Toboso Indians found their way to Nuestra Señora del Refugio Mission near the Texas coast. Baptismal records indicate their presence at this mission between 1807 and 1828. The Tobosos are frequently identified as Athapaskans (Apaches), but more recent research has produced enough evidence to indicate that the Toboso language was probably Uto-Aztecan."
+    "description": "The Toboso language belonged to the Indigenous peoples of northern Chihuahua and Coahuila. Spanish campaigns, mission life, and displacement led to its disappearance by the late 1700s. Only scattered word lists survive, leaving no viable path for revival."
   },
   {
     "id": 3,
     "name": "Karankawa",
     "image": "https://www.tshaonline.org/images/handbook/entries/WW/weir-guadalupe-bay.jpg",
     "imgAlt": "Image of what the Karankawan tribe might have looked like",
-    "description": "By the 1840s, the Karankawa, now exiled, split into two groups, one of which settled on Padre Island while the other fled into the Mexican state of Tamaulipas. In 1858, Mexican rancher Juan Nepomuceno Cortina led a group of Mexicans and Texan colonists against what was believed to be the Karankawa's last known refuge, killing many. By 1891, the Karankawa ceased to exist as a functioning tribe. Today, however, there are unrecognized tribes who claim Karankawa descent."
+    "description": "Karankawa was spoken along the Texas Gulf Coast by coastal fishing peoples. Epidemics, warfare, and settler expansion caused its decline, and the last speakers died in the 19th century. A few vocabulary lists exist, but not enough for reconstruction."
   },
   {
     "id": 4,
     "name": "Jumano",
     "image": "https://www.tshaonline.org/images/handbook/entries/JJ/jumano-map.jpg",
     "imgAlt": "Map of the original homeland of the Jumano people",
-    "description": " Although they ranged over much of northern Mexico, New Mexico, and Texas, their most enduring territorial base was in central Texas between the lower Pecos River and the Colorado. The Jumanos were buffalo hunters and traders, and played an active role as middlemen between the Spanish colonies and various Indian tribes."
+    "description": "The Jumano people were widespread traders across Texas, New Mexico, and northern Mexico, but their language is unknown. No surviving vocabulary exists, and scholars cannot classify it. Because it was never recorded, revival is not possible."
   },
   {
     "id": 5,
     "name": "Guamares",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/ChichimecNations.png",
     "imgAlt": "map of different tribes that worked together including the Guamares",
-    "description": "The Guamare people were an indigenous people of Mexico, who were established mostly in Guanajuato and at the border of Jalisco."
+    "description": "The Guamares of Guanajuato spoke a language now completely lost. They resisted Spanish rule fiercely, and their population collapsed through warfare and assimilation in the 1500s. No linguistic data survives, making the language unrecoverable."
   },
   {
     "id": 6,
     "name": "Caxcán",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Guerra_de_juchipila.jpg",
     "imgAlt": "Caxcan warriors battling against the Spaniards",
-    "description": "Cazcan or Caxcan (Kaskán), was the language of the Caxcan, one of the Chichimeca peoples of Mexico."
+    "description": "Caxcán was spoken in Zacatecas and Jalisco by the Caxcanes, central figures in the Mixtón War. After their defeat, forced resettlement and cultural suppression erased the language by the 1600s. No documentation survives."
   },
   {
     "id": 7,
     "name": "Tecuexe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Tecuexe_Masks.JPG/500px-Tecuexe_Masks.JPG",
     "imgAlt": "Tecuexe Masks from a museum in Zacatecas, Mexico near la Quemada.",
-    "description": "The Tecuexe language is now extinct and very little is known about it. It was likely a Uto-Aztecan language."
+    "description": ""
   },
   {
     "id": 8,
