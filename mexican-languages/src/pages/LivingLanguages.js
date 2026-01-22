@@ -1,4 +1,5 @@
 //imports
+import React from "react"
 import language from '../data/livingLangaues.json';
 import LanguageCard from '../components/LanguageCard';
 
